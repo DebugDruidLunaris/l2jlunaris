@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<!--Event: Fight Club.-->
+	<spawn group="fight_club" count="11" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81899" y="149710" z="-3495" h="32767"/>
+		<!--Giran-->
+		<point x="148546" y="28365" z="-2295" h="32767"/>
+		<!--Aden-->
+		<point x="147409" y="-57436" z="-2807" h="15583"/>
+		<!--Goddard-->
+		<point x="44400" y="-47561" z="-823" h="49151"/>
+		<!--Rune-->
+		<point x="16826" y="145203" z="-3023" h="61793"/>
+		<!--Dion-->
+		<point x="82592" y="54951" z="-1551" h="32767"/>
+		<!--Oren-->
+		<point x="-14810" y="123291" z="-3143" h="64792"/>
+		<!--Gludio-->
+		<point x="-82033" y="150181" z="-3155" h="15805"/>
+		<!--Gludin-->
+		<point x="87879" y="-141555" z="-1367" h="27931"/>
+		<!--Schuttgart-->
+		<point x="111013" y="218582" z="-3569" h="16383"/>
+		<!--Heine-->
+		<point x="117473" y="76720" z="-2720" h="42440"/>
+		<!--Hunter Village-->
+		<npc id="36600"/>
+		<!--Bathiat - Event Manager-->
+	</spawn>
+
+	<!--Event: Simple.-->
+	<spawn group="simple_event" count="12" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81921" y="148921" z="-3467" h="16384"/>
+		<point x="146405" y="28360" z="-2269" h="49648"/>
+		<point x="19319" y="144919" z="-3103" h="31135"/>
+		<point x="-82805" y="149890" z="-3129" h="33202"/>
+		<point x="-12347" y="122549" z="-3104" h="32603"/>
+		<point x="110642" y="220165" z="-3655" h="61898"/>
+		<point x="116619" y="75463" z="-2721" h="20881"/>
+		<point x="85513" y="16014" z="-3668" h="23681"/>
+		<point x="81999" y="53793" z="-1496" h="61621"/>
+		<point x="148159" y="-55484" z="-2734" h="44315"/>
+		<point x="44185" y="-48502" z="-797" h="27479"/>
+		<point x="86899" y="-143229" z="-1293" h="22021"/>
+		<npc id="36618"/>
+		<!--Callisto - Simple Event Manager-->
+	</spawn>
+	<!--Event: Hitman. (TODO)-->
+	<spawn group="hitman" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="16840" y="145256" z="-2992" h="55689"/>
+		<npc id="36602"/>
+		<!--Dr. Follett - Guild of Assasin-->
+	</spawn>
+	<spawn group="hitman" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="44200" y="-48616" z="-792" h="29807"/>
+		<npc id="36603"/>
+		<!--Zlorf Flannelfoot - Guild of Assasin-->
+	</spawn>
+	<spawn group="hitman" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="81277" y="147004" z="-3528" h="60818"/>
+		<npc id="36604"/>
+		<!--Lady de Manfor - Guild of Assasin-->
+	</spawn>
+	<spawn group="hitman" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115976" y="76616" z="-2745" h="57343"/>
+		<npc id="36601"/>
+		<!--Sir Gyles de Murforte-->
+	</spawn>
+	<spawn group="hitman" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="147800" y="25560" z="-2008" h="15622"/>
+		<npc id="36605"/>
+		<!--Lord Downey - Guild of Assasin-->
+	</spawn>
+	<spawn group="hitman" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="147848" y="-54033" z="-2728" h="50109"/>
+		<npc id="36606"/>
+		<!--Dr. Cruces - Guild of Assasin-->
+	</spawn>
+</list>

@@ -1,0 +1,113 @@
+<html noscrollbar><title>Configuration Character  %playername%</title><body>
+<table border=0 cellpadding=0 cellspacing=0 width=292 height=358 background="L2UI_CT1.Slideshow_DF_Credit_09">
+<tr>
+	<td valign="top" align="center"><br>
+		<table width=292>
+			<tr>
+				<td width=292>
+					<center>
+						<font color="6699CC" name="CreditTextNormal">Your personal settings</font>
+					</center>
+				</td>
+			</tr>
+		</table>
+	</td>
+</tr>
+<tr><td align=center><br>
+	<table width=280 height=33 bgcolor=333333>
+	<tr>
+		<td width="125" align=center><font color="FF6600">Premium Account:</font> <font color="07aca1"></font></td>
+		<td width=80>%endtime%</td>
+	</tr>
+	</table>
+<table width=280 height=33 bgcolor=666666>
+	<tr>
+		<td width="125" align=center><font color="FF6600">Language:</font> <font color="07aca1">%lang%</font></td>
+		<td width="55" align=center><combobox width=50 height=10 var="lang" list="ru;en"/></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg lang $lang" value="OK"></td>
+	</tr>
+	</table>
+	<table width=280 height=33 bgcolor=333333>
+	<tr>
+		<td width="125" align=center><font color="0f9306">%additional%</font></td>
+	</tr>
+</table>
+<table width=280 height=33 bgcolor=666666>
+	<tr>
+		<td width="125" align=center><font color="0f9306">%additional2%</font></td>
+	</tr>
+</table>
+	<table width=280 height=33 bgcolor=333333>
+	<tr>
+		<td width="125" align=center><font color="FF6600">Block. experience:</font> <font color="07aca1">%noe%</font></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg noe on" value="Вкл"></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg noe off" value="Выкл"></td>
+	</tr>
+	</table>
+	<table width=280 height=33 bgcolor=666666>
+	<tr>
+		<td width="125" align=center><font color="FF6600">Chance skill:</font> <font color="07aca1">%skill_chance%</font></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg skill_chance on" value="Вкл"></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg skill_chance off" value="Выкл"></td>
+	</tr>
+	</table>
+	<table width=280 height=33 bgcolor=333333>
+	<tr>
+		<td width="125" align=center><font color="FF6600">Show. dealers:</font> <font color="07aca1">%notraders%</font></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg notraders on" value="Вкл"></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg notraders off" value="Выкл"></td>
+	</tr>
+	</table>
+	<table width=280 height=33 bgcolor=666666>
+	<tr>
+		<td width="125" align=center><font color="FF6600">Animation buffs:</font> <font color="07aca1">%notShowBuffAnim%</font></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg notShowBuffAnim on" value="Вкл"></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg notShowBuffAnim off" value="Выкл"></td>
+	</tr>
+	</table>
+	<table width=280 height=33 bgcolor=333333>
+	<tr>
+		<td width="125" align=center><font color="FF6600">Diskonekt:</font> <font color="07aca1">%noCarrier%</font></td>
+		<td width="55" align=center align=center valign=middle><edit var="set" width=30 height=12 align=center valign=top></td>
+		<td width="55" align=center><button width=35 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_cfg noCarrier $set" value="OK"></td>
+	</tr>
+</table>
+<table width=285 height=33 bgcolor=666666>
+	<tr>
+		<td width="75" colspan="3" align=center><font color="FF6600">Password:</font> <font color="07aca1">On</font></td>
+		<td width="80" align=center><button width=80 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_password" value="Change"></td>
+	</tr>
+</table>
+<table width=285 height=33 bgcolor=333333>
+	<tr>
+		<td width="75" colspan="3" align=center><font color="FF6600">Repair:</font> <font color="07aca1">On</font></td>
+		<td width="80" align=center><button width=80 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_repair" value="Restore"></td>
+	</tr>
+</table>
+<table width=285 height=33 bgcolor=666666>
+	<tr>
+		<td width="75" colspan="3" align=center><font color="FF6600">Whoami:</font> <font color="07aca1">On</font></td>
+		<td width="80" align=center><button width=80 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_whoami" value="Whoami"></td>
+	</tr>
+</table>
+<table width=285 height=33 bgcolor=333333>
+	<tr>
+		<td width="75" colspan="3" align=center><font color="FF6600">Chw:</font> <font color="07aca1">Вкл</font></td>
+		<td width="80" align=center><button width=80 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_clan" value="Chw"></td>
+	</tr>
+</table>
+<table width=285 height=33 bgcolor=666666>
+	<tr>
+		<td width="75" colspan="3" align=center><font color="FF6600">Lock:</font> <font color="07aca1">Вкл</font></td>
+		<td width="80" align=center><button width=80 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_lock" value="Lock"></td>
+	</tr>
+</table>
+<table width=285 height=33 bgcolor=333333>
+	<tr>
+		<td width="75" colspan="3" align=center><font color="FF6600">Pass:</font> <font color="07aca1">Вкл</font></td>
+		<td width="80" align=center><button width=80 height=17 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title" action="bypass -h user_password" value="Pass"></td>
+	</tr>
+</table>
+</td></tr>
+</table>
+</body></html>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<!-- Region: Frozen Valley. Territory: Dwarven Village -->
+
+	<!-- Frozen Valley Npc's -->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="112265" y="-173366" z="-611" h="47000"/>
+		<npc id="30529"/>
+		<!--Maron-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="112656" y="-174864" z="-611" h="8192"/>
+		<npc id="30554"/>
+		<!--Bolter-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="119392" y="-185616" z="-3216" h="0"/>
+		<npc id="31035"/>
+		<!--Defender-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115280" y="-174608" z="-912" h="0"/>
+		<npc id="31035"/>
+		<!--Defender-->
+	</spawn>
+
+	<!-- Frozen Valley Monster's -->
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118884" y="-181248" zmin="-2764" zmax="-1664"/>
+			<add x="118324" y="-179912" zmin="-2764" zmax="-1664"/>
+			<add x="118684" y="-179476" zmin="-2764" zmax="-1664"/>
+			<add x="120664" y="-180248" zmin="-2764" zmax="-1664"/>
+			<add x="120124" y="-180956" zmin="-2764" zmax="-1664"/>
+		</territory>
+		<npc id="20317"/>
+		<!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120496" y="-181180" zmin="-2056" zmax="-1656"/>
+			<add x="120668" y="-182308" zmin="-2056" zmax="-1656"/>
+			<add x="122420" y="-181108" zmin="-2056" zmax="-1656"/>
+			<add x="121768" y="-180468" zmin="-2056" zmax="-1656"/>
+		</territory>
+		<npc id="20317"/>
+		<!--Black Wolf-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120064" y="-183544" zmin="-3496" zmax="-2646"/>
+			<add x="118372" y="-183448" zmin="-3496" zmax="-2646"/>
+			<add x="118096" y="-186164" zmin="-3496" zmax="-2646"/>
+			<add x="119636" y="-187464" zmin="-3496" zmax="-2646"/>
+			<add x="120160" y="-186752" zmin="-3496" zmax="-2646"/>
+		</territory>
+		<npc id="20317"/>
+		<!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118484" y="-188576" zmin="-3428" zmax="-2778"/>
+			<add x="119076" y="-187444" zmin="-3428" zmax="-2778"/>
+			<add x="120292" y="-187720" zmin="-3428" zmax="-2778"/>
+			<add x="119796" y="-189708" zmin="-3428" zmax="-2778"/>
+		</territory>
+		<npc id="20317"/>
+		<!--Black Wolf-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118884" y="-181248" zmin="-2764" zmax="-1664"/>
+			<add x="118324" y="-179912" zmin="-2764" zmax="-1664"/>
+			<add x="118684" y="-179476" zmin="-2764" zmax="-1664"/>
+			<add x="120664" y="-180248" zmin="-2764" zmax="-1664"/>
+			<add x="120124" y="-180956" zmin="-2764" zmax="-1664"/>
+		</territory>
+		<npc id="20327"/>
+		<!--Goblin Snooper-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120496" y="-181180" zmin="-2056" zmax="-1656"/>
+			<add x="120668" y="-182308" zmin="-2056" zmax="-1656"/>
+			<add x="122420" y="-181108" zmin="-2056" zmax="-1656"/>
+			<add x="121768" y="-180468" zmin="-2056" zmax="-1656"/>
+		</territory>
+		<npc id="20327"/>
+		<!--Goblin Snooper-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120064" y="-183544" zmin="-3496" zmax="-2646"/>
+			<add x="118372" y="-183448" zmin="-3496" zmax="-2646"/>
+			<add x="118096" y="-186164" zmin="-3496" zmax="-2646"/>
+			<add x="119636" y="-187464" zmin="-3496" zmax="-2646"/>
+			<add x="120160" y="-186752" zmin="-3496" zmax="-2646"/>
+		</territory>
+		<npc id="20327"/>
+		<!--Goblin Snooper-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118884" y="-181248" zmin="-2764" zmax="-1664"/>
+			<add x="118324" y="-179912" zmin="-2764" zmax="-1664"/>
+			<add x="118684" y="-179476" zmin="-2764" zmax="-1664"/>
+			<add x="120664" y="-180248" zmin="-2764" zmax="-1664"/>
+			<add x="120124" y="-180956" zmin="-2764" zmax="-1664"/>
+		</territory>
+		<npc id="20446"/>
+		<!--Utuku Orc-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120496" y="-181180" zmin="-2056" zmax="-1656"/>
+			<add x="120668" y="-182308" zmin="-2056" zmax="-1656"/>
+			<add x="122420" y="-181108" zmin="-2056" zmax="-1656"/>
+			<add x="121768" y="-180468" zmin="-2056" zmax="-1656"/>
+		</territory>
+		<npc id="20446"/>
+		<!--Utuku Orc-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120064" y="-183544" zmin="-3496" zmax="-2646"/>
+			<add x="118372" y="-183448" zmin="-3496" zmax="-2646"/>
+			<add x="118096" y="-186164" zmin="-3496" zmax="-2646"/>
+			<add x="119636" y="-187464" zmin="-3496" zmax="-2646"/>
+			<add x="120160" y="-186752" zmin="-3496" zmax="-2646"/>
+		</territory>
+		<npc id="20446"/>
+		<!--Utuku Orc-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118484" y="-188576" zmin="-3428" zmax="-2778"/>
+			<add x="119076" y="-187444" zmin="-3428" zmax="-2778"/>
+			<add x="120292" y="-187720" zmin="-3428" zmax="-2778"/>
+			<add x="119796" y="-189708" zmin="-3428" zmax="-2778"/>
+		</territory>
+		<npc id="20446"/>
+		<!--Utuku Orc-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113747" y="-172685" zmin="-688" zmax="-592"/>
+			<add x="114970" y="-172685" zmin="-688" zmax="-592"/>
+			<add x="114970" y="-174011" zmin="-688" zmax="-592"/>
+			<add x="113747" y="-174011" zmin="-688" zmax="-592"/>
+		</territory>
+		<npc id="20533"/>
+		<!--Longtail Keltir-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115908" y="-171992" zmin="-788" zmax="-438"/>
+			<add x="115772" y="-173068" zmin="-788" zmax="-438"/>
+			<add x="113960" y="-173988" zmin="-788" zmax="-438"/>
+			<add x="113908" y="-173304" zmin="-788" zmax="-438"/>
+			<add x="115280" y="-172080" zmin="-788" zmax="-438"/>
+		</territory>
+		<npc id="20533"/>
+		<!--Longtail Keltir-->
+	</spawn>
+	<spawn count="3" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114680" y="-174068" zmin="-1064" zmax="-464"/>
+			<add x="114668" y="-175000" zmin="-1064" zmax="-464"/>
+			<add x="115448" y="-176280" zmin="-1064" zmax="-464"/>
+			<add x="116552" y="-176624" zmin="-1064" zmax="-464"/>
+			<add x="117360" y="-176024" zmin="-1064" zmax="-464"/>
+			<add x="117468" y="-174448" zmin="-1064" zmax="-464"/>
+			<add x="116220" y="-173196" zmin="-1064" zmax="-464"/>
+		</territory>
+		<npc id="20533"/>
+		<!--Longtail Keltir-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116416" y="-173184" zmin="-864" zmax="36"/>
+			<add x="117300" y="-174168" zmin="-864" zmax="36"/>
+			<add x="118968" y="-173696" zmin="-864" zmax="36"/>
+			<add x="119112" y="-173040" zmin="-864" zmax="36"/>
+			<add x="118048" y="-171952" zmin="-864" zmax="36"/>
+		</territory>
+		<npc id="20533"/>
+		<!--Longtail Keltir-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113747" y="-172685" zmin="-688" zmax="-592"/>
+			<add x="114970" y="-172685" zmin="-688" zmax="-592"/>
+			<add x="114970" y="-174011" zmin="-688" zmax="-592"/>
+			<add x="113747" y="-174011" zmin="-688" zmax="-592"/>
+		</territory>
+		<npc id="20539"/>
+		<!--Elder Longtail Keltir-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116416" y="-173184" zmin="-864" zmax="36"/>
+			<add x="117300" y="-174168" zmin="-864" zmax="36"/>
+			<add x="118968" y="-173696" zmin="-864" zmax="36"/>
+			<add x="119112" y="-173040" zmin="-864" zmax="36"/>
+			<add x="118048" y="-171952" zmin="-864" zmax="36"/>
+		</territory>
+		<npc id="20539"/>
+		<!--Elder Longtail Keltir-->
+	</spawn>
+	<spawn count="4" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114680" y="-174068" zmin="-1064" zmax="-464"/>
+			<add x="114668" y="-175000" zmin="-1064" zmax="-464"/>
+			<add x="115448" y="-176280" zmin="-1064" zmax="-464"/>
+			<add x="116552" y="-176624" zmin="-1064" zmax="-464"/>
+			<add x="117360" y="-176024" zmin="-1064" zmax="-464"/>
+			<add x="117468" y="-174448" zmin="-1064" zmax="-464"/>
+			<add x="116220" y="-173196" zmin="-1064" zmax="-464"/>
+		</territory>
+		<npc id="20539"/>
+		<!--Elder Longtail Keltir-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="115908" y="-171992" zmin="-788" zmax="-438"/>
+			<add x="115772" y="-173068" zmin="-788" zmax="-438"/>
+			<add x="113960" y="-173988" zmin="-788" zmax="-438"/>
+			<add x="113908" y="-173304" zmin="-788" zmax="-438"/>
+			<add x="115280" y="-172080" zmin="-788" zmax="-438"/>
+		</territory>
+		<npc id="20539"/>
+		<!--Elder Longtail Keltir-->
+	</spawn>
+</list>

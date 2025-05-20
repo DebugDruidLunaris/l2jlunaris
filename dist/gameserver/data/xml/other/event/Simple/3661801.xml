@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- MultiSell_begin	[event_simple_trade]-->
+<list>
+    <config showall="false" notax="false" ignoreprice="true" keepenchanted="false"/>
+    <!-- coin_of_luck -->
+    <item>
+        <ingredient id="4037" count="1"/>
+        <production id="57" count="1"/>
+    </item>
+</list>

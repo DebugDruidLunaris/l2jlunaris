@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="3" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="103123" y="203007" zmin="-3753" zmax="-2953"/>
+			<add x="104812" y="201853" zmin="-3753" zmax="-2953"/>
+			<add x="106386" y="201898" zmin="-3753" zmax="-2953"/>
+			<add x="106134" y="204477" zmin="-3753" zmax="-2953"/>
+		</territory>
+		<npc id="20135"/>
+		<!--Alligator-->
+	</spawn>
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="106252" y="197068" zmin="-4236" zmax="-4036"/>
+			<add x="106252" y="197268" zmin="-4236" zmax="-4036"/>
+			<add x="106452" y="197268" zmin="-4236" zmax="-4036"/>
+			<add x="106452" y="197068" zmin="-4236" zmax="-4036"/>
+		</territory>
+		<npc id="20314"/>
+		<!--Great White Shark-->
+	</spawn>
+	<spawn count="3" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118246" y="212386" zmin="-3816" zmax="-3016"/>
+			<add x="117679" y="211677" zmin="-3816" zmax="-3016"/>
+			<add x="121408" y="208460" zmin="-3816" zmax="-3016"/>
+			<add x="123515" y="208312" zmin="-3816" zmax="-3016"/>
+			<add x="122186" y="210758" zmin="-3816" zmax="-3016"/>
+		</territory>
+		<npc id="20791"/>
+		<!--Crokian Warrior-->
+	</spawn>
+	<spawn count="2" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="103123" y="203007" zmin="-3753" zmax="-2953"/>
+			<add x="104812" y="201853" zmin="-3753" zmax="-2953"/>
+			<add x="106386" y="201898" zmin="-3753" zmax="-2953"/>
+			<add x="106134" y="204477" zmin="-3753" zmax="-2953"/>
+		</territory>
+		<npc id="20792"/>
+		<!--Farhite-->
+	</spawn>
+	<spawn count="3" respawn="30" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118246" y="212386" zmin="-3816" zmax="-3016"/>
+			<add x="117679" y="211677" zmin="-3816" zmax="-3016"/>
+			<add x="121408" y="208460" zmin="-3816" zmax="-3016"/>
+			<add x="123515" y="208312" zmin="-3816" zmax="-3016"/>
+			<add x="122186" y="210758" zmin="-3816" zmax="-3016"/>
+		</territory>
+		<npc id="20792"/>
+		<!--Farhite-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="112840" y="210036" zmin="-3687" zmax="-3087"/>
+			<add x="112538" y="209177" zmin="-3687" zmax="-3087"/>
+			<add x="111582" y="209341" zmin="-3687" zmax="-3087"/>
+			<add x="111263" y="210522" zmin="-3687" zmax="-3087"/>
+			<add x="112103" y="210972" zmin="-3687" zmax="-3087"/>
+		</territory>
+		<npc id="25214"/>
+		<!--Fafurion's Page Sika-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="100816" y="199980" zmin="-3780" zmax="-3180"/>
+			<add x="101284" y="201288" zmin="-3780" zmax="-3180"/>
+			<add x="102256" y="201032" zmin="-3780" zmax="-3180"/>
+			<add x="102868" y="199276" zmin="-3780" zmax="-3180"/>
+		</territory>
+		<npc id="25394"/>
+		<!--Premo Prime-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120168" y="214808" zmin="-3700" zmax="-2800"/>
+			<add x="121032" y="216136" zmin="-3700" zmax="-2800"/>
+			<add x="122536" y="214072" zmin="-3700" zmax="-2800"/>
+			<add x="120952" y="213320" zmin="-3700" zmax="-2800"/>
+		</territory>
+		<npc id="20786"/>
+		<!--Lienrik-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="120168" y="214808" zmin="-3700" zmax="-2800"/>
+			<add x="121032" y="216136" zmin="-3700" zmax="-2800"/>
+			<add x="122536" y="214072" zmin="-3700" zmax="-2800"/>
+			<add x="120952" y="213320" zmin="-3700" zmax="-2800"/>
+		</territory>
+		<npc id="20787"/>
+		<!--Lienrik Lad-->
+	</spawn>
+	<spawn count="5" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="122680" y="215144" zmin="-3700" zmax="-2800"/>
+			<add x="123160" y="213432" zmin="-3700" zmax="-2800"/>
+			<add x="125576" y="213448" zmin="-3700" zmax="-2800"/>
+			<add x="125160" y="214984" zmin="-3700" zmax="-2800"/>
+		</territory>
+		<npc id="20786"/>
+		<!--Lienrik-->
+	</spawn>
+	<spawn count="5" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="122680" y="215144" zmin="-3700" zmax="-2800"/>
+			<add x="123160" y="213432" zmin="-3700" zmax="-2800"/>
+			<add x="125576" y="213448" zmin="-3700" zmax="-2800"/>
+			<add x="125160" y="214984" zmin="-3700" zmax="-2800"/>
+		</territory>
+		<npc id="20787"/>
+		<!--Lienrik Lad-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123656" y="219752" zmin="-3700" zmax="-2800"/>
+			<add x="126232" y="221000" zmin="-3700" zmax="-2800"/>
+			<add x="126824" y="219048" zmin="-3700" zmax="-2800"/>
+			<add x="125400" y="218232" zmin="-3700" zmax="-2800"/>
+		</territory>
+		<npc id="20786"/>
+		<!--Lienrik-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123656" y="219752" zmin="-3700" zmax="-2800"/>
+			<add x="126232" y="221000" zmin="-3700" zmax="-2800"/>
+			<add x="126824" y="219048" zmin="-3700" zmax="-2800"/>
+			<add x="125400" y="218232" zmin="-3700" zmax="-2800"/>
+		</territory>
+		<npc id="20787"/>
+		<!--Lienrik Lad-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124184" y="221928" zmin="-3000" zmax="-2200"/>
+			<add x="122632" y="222136" zmin="-3000" zmax="-2200"/>
+			<add x="122712" y="223736" zmin="-3000" zmax="-2200"/>
+			<add x="124376" y="224120" zmin="-3000" zmax="-2200"/>
+			<add x="123768" y="223256" zmin="-3000" zmax="-2200"/>
+		</territory>
+		<npc id="20786"/>
+		<!--Lienrik-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124184" y="221928" zmin="-3000" zmax="-2200"/>
+			<add x="122632" y="222136" zmin="-3000" zmax="-2200"/>
+			<add x="122712" y="223736" zmin="-3000" zmax="-2200"/>
+			<add x="124376" y="224120" zmin="-3000" zmax="-2200"/>
+			<add x="123768" y="223256" zmin="-3000" zmax="-2200"/>
+		</territory>
+		<npc id="20787"/>
+		<!--Lienrik Lad-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123000" y="210056" zmin="-3800" zmax="-2800"/>
+			<add x="122840" y="208616" zmin="-3800" zmax="-2800"/>
+			<add x="121192" y="208888" zmin="-3800" zmax="-2800"/>
+			<add x="117736" y="211544" zmin="-3800" zmax="-2800"/>
+			<add x="118616" y="212808" zmin="-3800" zmax="-2800"/>
+			<add x="121512" y="210248" zmin="-3800" zmax="-2800"/>
+		</territory>
+		<npc id="20786"/>
+		<!--Lienrik-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123000" y="210056" zmin="-3800" zmax="-2800"/>
+			<add x="122840" y="208616" zmin="-3800" zmax="-2800"/>
+			<add x="121192" y="208888" zmin="-3800" zmax="-2800"/>
+			<add x="117736" y="211544" zmin="-3800" zmax="-2800"/>
+			<add x="118616" y="212808" zmin="-3800" zmax="-2800"/>
+			<add x="121512" y="210248" zmin="-3800" zmax="-2800"/>
+		</territory>
+		<npc id="20787"/>
+		<!--Lienrik Lad-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123000" y="210056" zmin="-3800" zmax="-2800"/>
+			<add x="122840" y="208616" zmin="-3800" zmax="-2800"/>
+			<add x="121192" y="208888" zmin="-3800" zmax="-2800"/>
+			<add x="117736" y="211544" zmin="-3800" zmax="-2800"/>
+			<add x="118616" y="212808" zmin="-3800" zmax="-2800"/>
+			<add x="121512" y="210248" zmin="-3800" zmax="-2800"/>
+		</territory>
+		<npc id="20791"/>
+		<!--Crokian Warrior-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123000" y="210056" zmin="-3800" zmax="-2800"/>
+			<add x="122840" y="208616" zmin="-3800" zmax="-2800"/>
+			<add x="121192" y="208888" zmin="-3800" zmax="-2800"/>
+			<add x="117736" y="211544" zmin="-3800" zmax="-2800"/>
+			<add x="118616" y="212808" zmin="-3800" zmax="-2800"/>
+			<add x="121512" y="210248" zmin="-3800" zmax="-2800"/>
+		</territory>
+		<npc id="20792"/>
+		<!--Farhite-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="104424" y="211656" zmin="-3200" zmax="-2400"/>
+			<add x="105672" y="211096" zmin="-3200" zmax="-2400"/>
+			<add x="106120" y="212584" zmin="-3200" zmax="-2400"/>
+			<add x="105352" y="213064" zmin="-3200" zmax="-2400"/>
+		</territory>
+		<npc id="20784"/>
+		<!--Tasaba Lizardman-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="104424" y="211656" zmin="-3200" zmax="-2400"/>
+			<add x="105672" y="211096" zmin="-3200" zmax="-2400"/>
+			<add x="106120" y="212584" zmin="-3200" zmax="-2400"/>
+			<add x="105352" y="213064" zmin="-3200" zmax="-2400"/>
+		</territory>
+		<npc id="20785"/>
+		<!--Tasaba Lizardman Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="102936" y="210440" zmin="-3200" zmax="-2200"/>
+			<add x="103336" y="209992" zmin="-3200" zmax="-2200"/>
+			<add x="105000" y="210264" zmin="-3200" zmax="-2200"/>
+			<add x="104200" y="211608" zmin="-3200" zmax="-2200"/>
+		</territory>
+		<npc id="20784"/>
+		<!--Tasaba Lizardman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="102936" y="210440" zmin="-3200" zmax="-2200"/>
+			<add x="103336" y="209992" zmin="-3200" zmax="-2200"/>
+			<add x="105000" y="210264" zmin="-3200" zmax="-2200"/>
+			<add x="104200" y="211608" zmin="-3200" zmax="-2200"/>
+		</territory>
+		<npc id="20785"/>
+		<!--Tasaba Lizardman Shaman-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="100712" y="200472" zmin="-3800" zmax="-3400"/>
+			<add x="101672" y="199816" zmin="-3800" zmax="-3400"/>
+			<add x="102696" y="200472" zmin="-3800" zmax="-3400"/>
+			<add x="101576" y="201160" zmin="-3800" zmax="-3400"/>
+		</territory>
+		<npc id="20784"/>
+		<!--Tasaba Lizardman-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="100712" y="200472" zmin="-3800" zmax="-3400"/>
+			<add x="101672" y="199816" zmin="-3800" zmax="-3400"/>
+			<add x="102696" y="200472" zmin="-3800" zmax="-3400"/>
+			<add x="101576" y="201160" zmin="-3800" zmax="-3400"/>
+		</territory>
+		<npc id="20785"/>
+		<!--Tasaba Lizardman Shaman-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="103928" y="203032" zmin="-3800" zmax="-3000"/>
+			<add x="106376" y="201944" zmin="-3800" zmax="-3000"/>
+			<add x="106520" y="203656" zmin="-3800" zmax="-3000"/>
+			<add x="105704" y="204360" zmin="-3800" zmax="-3000"/>
+			<add x="105016" y="203432" zmin="-3800" zmax="-3000"/>
+		</territory>
+		<npc id="20784"/>
+		<!--Tasaba Lizardman-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="103928" y="203032" zmin="-3800" zmax="-3000"/>
+			<add x="106376" y="201944" zmin="-3800" zmax="-3000"/>
+			<add x="106520" y="203656" zmin="-3800" zmax="-3000"/>
+			<add x="105704" y="204360" zmin="-3800" zmax="-3000"/>
+			<add x="105016" y="203432" zmin="-3800" zmax="-3000"/>
+		</territory>
+		<npc id="20785"/>
+		<!--Tasaba Lizardman Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="103928" y="203032" zmin="-3800" zmax="-3000"/>
+			<add x="106376" y="201944" zmin="-3800" zmax="-3000"/>
+			<add x="106520" y="203656" zmin="-3800" zmax="-3000"/>
+			<add x="105704" y="204360" zmin="-3800" zmax="-3000"/>
+			<add x="105016" y="203432" zmin="-3800" zmax="-3000"/>
+		</territory>
+		<npc id="20792"/>
+		<!--Farhite-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="103928" y="203032" zmin="-3800" zmax="-3000"/>
+			<add x="106376" y="201944" zmin="-3800" zmax="-3000"/>
+			<add x="106520" y="203656" zmin="-3800" zmax="-3000"/>
+			<add x="105704" y="204360" zmin="-3800" zmax="-3000"/>
+			<add x="105016" y="203432" zmin="-3800" zmax="-3000"/>
+		</territory>
+		<npc id="20135"/>
+		<!--Alligator-->
+	</spawn>
+	<spawn count="12" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107096" y="200200" zmin="-3800" zmax="-3400"/>
+			<add x="109112" y="198184" zmin="-3800" zmax="-3400"/>
+			<add x="111480" y="198920" zmin="-3800" zmax="-3400"/>
+			<add x="113048" y="199016" zmin="-3800" zmax="-3400"/>
+			<add x="113208" y="200248" zmin="-3800" zmax="-3400"/>
+			<add x="111576" y="201128" zmin="-3800" zmax="-3400"/>
+			<add x="109992" y="200552" zmin="-3800" zmax="-3400"/>
+			<add x="108968" y="201464" zmin="-3800" zmax="-3400"/>
+		</territory>
+		<npc id="20135"/>
+		<!--Alligator-->
+	</spawn>
+	<spawn count="6" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107096" y="200200" zmin="-3800" zmax="-3400"/>
+			<add x="109112" y="198184" zmin="-3800" zmax="-3400"/>
+			<add x="111480" y="198920" zmin="-3800" zmax="-3400"/>
+			<add x="113048" y="199016" zmin="-3800" zmax="-3400"/>
+			<add x="113208" y="200248" zmin="-3800" zmax="-3400"/>
+			<add x="111576" y="201128" zmin="-3800" zmax="-3400"/>
+			<add x="109992" y="200552" zmin="-3800" zmax="-3400"/>
+			<add x="108968" y="201464" zmin="-3800" zmax="-3400"/>
+		</territory>
+		<npc id="20789"/>
+		<!--Crokian-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107096" y="200200" zmin="-3800" zmax="-3400"/>
+			<add x="109112" y="198184" zmin="-3800" zmax="-3400"/>
+			<add x="111480" y="198920" zmin="-3800" zmax="-3400"/>
+			<add x="113048" y="199016" zmin="-3800" zmax="-3400"/>
+			<add x="113208" y="200248" zmin="-3800" zmax="-3400"/>
+			<add x="111576" y="201128" zmin="-3800" zmax="-3400"/>
+			<add x="109992" y="200552" zmin="-3800" zmax="-3400"/>
+			<add x="108968" y="201464" zmin="-3800" zmax="-3400"/>
+		</territory>
+		<npc id="20790"/>
+		<!--Dailaon-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107096" y="200200" zmin="-3800" zmax="-3400"/>
+			<add x="109112" y="198184" zmin="-3800" zmax="-3400"/>
+			<add x="111480" y="198920" zmin="-3800" zmax="-3400"/>
+			<add x="113048" y="199016" zmin="-3800" zmax="-3400"/>
+			<add x="113208" y="200248" zmin="-3800" zmax="-3400"/>
+			<add x="111576" y="201128" zmin="-3800" zmax="-3400"/>
+			<add x="109992" y="200552" zmin="-3800" zmax="-3400"/>
+			<add x="108968" y="201464" zmin="-3800" zmax="-3400"/>
+		</territory>
+		<npc id="20791"/>
+		<!--Crokian Warrior-->
+	</spawn>
+	<spawn count="8" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107096" y="200200" zmin="-3800" zmax="-3400"/>
+			<add x="109112" y="198184" zmin="-3800" zmax="-3400"/>
+			<add x="111480" y="198920" zmin="-3800" zmax="-3400"/>
+			<add x="113048" y="199016" zmin="-3800" zmax="-3400"/>
+			<add x="113208" y="200248" zmin="-3800" zmax="-3400"/>
+			<add x="111576" y="201128" zmin="-3800" zmax="-3400"/>
+			<add x="109992" y="200552" zmin="-3800" zmax="-3400"/>
+			<add x="108968" y="201464" zmin="-3800" zmax="-3400"/>
+		</territory>
+		<npc id="20792"/>
+		<!--Farhite-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113016" y="202760" zmin="-3600" zmax="-3100"/>
+			<add x="114136" y="202952" zmin="-3600" zmax="-3100"/>
+			<add x="115016" y="202280" zmin="-3600" zmax="-3100"/>
+			<add x="115432" y="200952" zmin="-3600" zmax="-3100"/>
+			<add x="113368" y="201304" zmin="-3600" zmax="-3100"/>
+		</territory>
+		<npc id="20135"/>
+		<!--Alligator-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113016" y="202760" zmin="-3600" zmax="-3100"/>
+			<add x="114136" y="202952" zmin="-3600" zmax="-3100"/>
+			<add x="115016" y="202280" zmin="-3600" zmax="-3100"/>
+			<add x="115432" y="200952" zmin="-3600" zmax="-3100"/>
+			<add x="113368" y="201304" zmin="-3600" zmax="-3100"/>
+		</territory>
+		<npc id="20789"/>
+		<!--Crokian-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113016" y="202760" zmin="-3600" zmax="-3100"/>
+			<add x="114136" y="202952" zmin="-3600" zmax="-3100"/>
+			<add x="115016" y="202280" zmin="-3600" zmax="-3100"/>
+			<add x="115432" y="200952" zmin="-3600" zmax="-3100"/>
+			<add x="113368" y="201304" zmin="-3600" zmax="-3100"/>
+		</territory>
+		<npc id="20790"/>
+		<!--Dailaon-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113016" y="202760" zmin="-3600" zmax="-3100"/>
+			<add x="114136" y="202952" zmin="-3600" zmax="-3100"/>
+			<add x="115016" y="202280" zmin="-3600" zmax="-3100"/>
+			<add x="115432" y="200952" zmin="-3600" zmax="-3100"/>
+			<add x="113368" y="201304" zmin="-3600" zmax="-3100"/>
+		</territory>
+		<npc id="20791"/>
+		<!--Crokian Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113016" y="202760" zmin="-3600" zmax="-3100"/>
+			<add x="114136" y="202952" zmin="-3600" zmax="-3100"/>
+			<add x="115016" y="202280" zmin="-3600" zmax="-3100"/>
+			<add x="115432" y="200952" zmin="-3600" zmax="-3100"/>
+			<add x="113368" y="201304" zmin="-3600" zmax="-3100"/>
+		</territory>
+		<npc id="20792"/>
+		<!--Farhite-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113016" y="202760" zmin="-3600" zmax="-3100"/>
+			<add x="114136" y="202952" zmin="-3600" zmax="-3100"/>
+			<add x="115016" y="202280" zmin="-3600" zmax="-3100"/>
+			<add x="115432" y="200952" zmin="-3600" zmax="-3100"/>
+			<add x="113368" y="201304" zmin="-3600" zmax="-3100"/>
+		</territory>
+		<npc id="20793"/>
+		<!--Nos-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113960" y="200552" zmin="-3800" zmax="-3500"/>
+			<add x="113656" y="199464" zmin="-3800" zmax="-3500"/>
+			<add x="115960" y="199352" zmin="-3800" zmax="-3500"/>
+			<add x="115928" y="200152" zmin="-3800" zmax="-3500"/>
+		</territory>
+		<npc id="20135"/>
+		<!--Alligator-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113960" y="200552" zmin="-3800" zmax="-3500"/>
+			<add x="113656" y="199464" zmin="-3800" zmax="-3500"/>
+			<add x="115960" y="199352" zmin="-3800" zmax="-3500"/>
+			<add x="115928" y="200152" zmin="-3800" zmax="-3500"/>
+		</territory>
+		<npc id="20789"/>
+		<!--Crokian-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113960" y="200552" zmin="-3800" zmax="-3500"/>
+			<add x="113656" y="199464" zmin="-3800" zmax="-3500"/>
+			<add x="115960" y="199352" zmin="-3800" zmax="-3500"/>
+			<add x="115928" y="200152" zmin="-3800" zmax="-3500"/>
+		</territory>
+		<npc id="20790"/>
+		<!--Dailaon-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113960" y="200552" zmin="-3800" zmax="-3500"/>
+			<add x="113656" y="199464" zmin="-3800" zmax="-3500"/>
+			<add x="115960" y="199352" zmin="-3800" zmax="-3500"/>
+			<add x="115928" y="200152" zmin="-3800" zmax="-3500"/>
+		</territory>
+		<npc id="20792"/>
+		<!--Farhite-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116488" y="199160" zmin="-3800" zmax="-3500"/>
+			<add x="117816" y="198440" zmin="-3800" zmax="-3500"/>
+			<add x="118536" y="199304" zmin="-3800" zmax="-3500"/>
+			<add x="117976" y="200008" zmin="-3800" zmax="-3500"/>
+		</territory>
+		<npc id="20789"/>
+		<!--Crokian-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116488" y="199160" zmin="-3800" zmax="-3500"/>
+			<add x="117816" y="198440" zmin="-3800" zmax="-3500"/>
+			<add x="118536" y="199304" zmin="-3800" zmax="-3500"/>
+			<add x="117976" y="200008" zmin="-3800" zmax="-3500"/>
+		</territory>
+		<npc id="20790"/>
+		<!--Dailaon-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116488" y="199160" zmin="-3800" zmax="-3500"/>
+			<add x="117816" y="198440" zmin="-3800" zmax="-3500"/>
+			<add x="118536" y="199304" zmin="-3800" zmax="-3500"/>
+			<add x="117976" y="200008" zmin="-3800" zmax="-3500"/>
+		</territory>
+		<npc id="20791"/>
+		<!--Crokian Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116488" y="199160" zmin="-3800" zmax="-3500"/>
+			<add x="117816" y="198440" zmin="-3800" zmax="-3500"/>
+			<add x="118536" y="199304" zmin="-3800" zmax="-3500"/>
+			<add x="117976" y="200008" zmin="-3800" zmax="-3500"/>
+		</territory>
+		<npc id="20792"/>
+		<!--Farhite-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116488" y="199160" zmin="-3800" zmax="-3500"/>
+			<add x="117816" y="198440" zmin="-3800" zmax="-3500"/>
+			<add x="118536" y="199304" zmin="-3800" zmax="-3500"/>
+			<add x="117976" y="200008" zmin="-3800" zmax="-3500"/>
+		</territory>
+		<npc id="20793"/>
+		<!--Nos-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123544" y="200696" zmin="-2900" zmax="-2500"/>
+			<add x="125352" y="201064" zmin="-2900" zmax="-2500"/>
+			<add x="126200" y="201928" zmin="-2900" zmax="-2500"/>
+			<add x="124216" y="202136" zmin="-2900" zmax="-2500"/>
+		</territory>
+		<npc id="20789"/>
+		<!--Crokian-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123544" y="200696" zmin="-2900" zmax="-2500"/>
+			<add x="125352" y="201064" zmin="-2900" zmax="-2500"/>
+			<add x="126200" y="201928" zmin="-2900" zmax="-2500"/>
+			<add x="124216" y="202136" zmin="-2900" zmax="-2500"/>
+		</territory>
+		<npc id="20790"/>
+		<!--Dailaon-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123544" y="200696" zmin="-2900" zmax="-2500"/>
+			<add x="125352" y="201064" zmin="-2900" zmax="-2500"/>
+			<add x="126200" y="201928" zmin="-2900" zmax="-2500"/>
+			<add x="124216" y="202136" zmin="-2900" zmax="-2500"/>
+		</territory>
+		<npc id="20791"/>
+		<!--Crokian Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123544" y="200696" zmin="-2900" zmax="-2500"/>
+			<add x="125352" y="201064" zmin="-2900" zmax="-2500"/>
+			<add x="126200" y="201928" zmin="-2900" zmax="-2500"/>
+			<add x="124216" y="202136" zmin="-2900" zmax="-2500"/>
+		</territory>
+		<npc id="20792"/>
+		<!--Farhite-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123544" y="200696" zmin="-2900" zmax="-2500"/>
+			<add x="125352" y="201064" zmin="-2900" zmax="-2500"/>
+			<add x="126200" y="201928" zmin="-2900" zmax="-2500"/>
+			<add x="124216" y="202136" zmin="-2900" zmax="-2500"/>
+		</territory>
+		<npc id="20793"/>
+		<!--Nos-->
+	</spawn>
+</list>

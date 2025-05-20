@@ -1,0 +1,61 @@
+<html>
+<body>
+<center>
+<table width=700>
+<tr>
+</tr>
+</table>
+</center>
+<center>
+    <table border=0 cellspacing=0 cellpadding=0 fixwidth=755>
+        <tr>
+            <td fixwidth=626 height=455>
+                <br><center>
+                    <table width=740>
+                        <tr><center>
+							<td width=740><center><font color=3293F3>Отправить сообщение Администрации:</font><img src="L2UI.SquareGray" width=540 height=1></center><br></td>
+                        </tr><center>
+                        <tr>
+                            <td width=550>
+							<center>
+<table border="0" height=10 bgcolor="444444" width=720>
+<tr><td align=center><font color="00FFFF">Здравствуй <font color="FF0000"><?player_name?></font></td></tr>
+<tr><td align=center><font color="00FFFF">Пока нет игровых мастеров в сети, а вы хотите сообщить об ошибке?</font></td></tr>
+<tr><td align=center><font color="00FFFF">Теперь это возможно.</font></td></tr>
+</table>
+<br>
+<img src="L2UI.SquareWhite" width=710 height=1>
+<br>
+<font color="LEVEL"><u>Внимание! Вы можете отправлять 1 сообщение в сутки.</u></font>
+<br>
+<table width=680>
+<br>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><font color="LEVEL">Выберите тип ошибки:</font></td>
+</tr>
+<tr>
+<td><center><multiedit var="message" width=500 height=150></center></td>
+<td><combobox width=150 var="type" list=Скилы;Квесты;НПЦ;Локации;Другое></td>
+</tr>
+<tr>
+<td><br><center><button value="Отправить сообщение" action="bypass _bbsbugreport: $type : $message" width=250 height=25 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"/></center></td>
+
+</tr>
+</table>
+</center>
+<br><br>
+                            </td>
+                        </tr>
+                    </table>
+                </center>
+            </td>
+        </tr>
+    </table>
+ 
+</center>
+</body>
+</html>

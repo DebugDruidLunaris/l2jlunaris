@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="true" keepenchanted="false" />
+	<item>
+		<ingredient id="10639" count="4000" />
+		<production id="20208" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="2000" />
+		<production id="20205" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="5000" />
+		<production id="22305" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="6000" />
+		<production id="22303" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="200" />
+		<production id="21032" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="100" />
+		<production id="726" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="2000" />
+		<production id="10480" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="2000" />
+		<production id="10481" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="2000" />
+		<production id="10482" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="4500" />
+		<production id="13071" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="4500" />
+		<production id="13072" count="1" />
+	</item>
+	<item>
+		<ingredient id="10639" count="4500" />
+		<production id="13073" count="1" />
+	</item>
+</list>

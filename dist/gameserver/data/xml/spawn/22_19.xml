@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68776" y="65288" zmin="-3768" zmax="-3168"/>
+			<add x="69048" y="58284" zmin="-3768" zmax="-3168"/>
+			<add x="71364" y="60128" zmin="-3768" zmax="-3168"/>
+			<add x="72388" y="62488" zmin="-3768" zmax="-3168"/>
+		</territory>
+		<npc id="20585"/>
+		<!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68816" y="65268" zmin="-3764" zmax="-3264"/>
+			<add x="72380" y="62548" zmin="-3764" zmax="-3264"/>
+			<add x="75444" y="63548" zmin="-3764" zmax="-3264"/>
+			<add x="74568" y="65284" zmin="-3764" zmax="-3264"/>
+		</territory>
+		<npc id="20585"/>
+		<!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75388" y="58080" zmin="-3188" zmax="-2688"/>
+			<add x="74284" y="57804" zmin="-3188" zmax="-2688"/>
+			<add x="72744" y="59672" zmin="-3188" zmax="-2688"/>
+			<add x="72740" y="61092" zmin="-3188" zmax="-2688"/>
+			<add x="74236" y="62288" zmin="-3188" zmax="-2688"/>
+			<add x="75100" y="62072" zmin="-3188" zmax="-2688"/>
+			<add x="77064" y="59460" zmin="-3188" zmax="-2688"/>
+			<add x="76536" y="58652" zmin="-3188" zmax="-2688"/>
+		</territory>
+		<npc id="20585"/>
+		<!--Timak Orc Soldier-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69452" y="36716" zmin="-3664" zmax="-3064"/>
+			<add x="70752" y="36332" zmin="-3664" zmax="-3064"/>
+			<add x="73856" y="39204" zmin="-3664" zmax="-3064"/>
+			<add x="70760" y="40964" zmin="-3664" zmax="-3064"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65700" y="41880" zmin="-3868" zmax="-3268"/>
+			<add x="65716" y="36564" zmin="-3868" zmax="-3268"/>
+			<add x="69412" y="36644" zmin="-3868" zmax="-3268"/>
+			<add x="70716" y="40920" zmin="-3868" zmax="-3268"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="66728" y="37900" zmin="-3832" zmax="-3432"/>
+			<add x="67944" y="40612" zmin="-3832" zmax="-3432"/>
+			<add x="70180" y="40600" zmin="-3832" zmax="-3432"/>
+			<add x="69348" y="37364" zmin="-3832" zmax="-3432"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65704" y="41848" zmin="-3964" zmax="-3064"/>
+			<add x="65712" y="45876" zmin="-3964" zmax="-3064"/>
+			<add x="67840" y="45804" zmin="-3964" zmax="-3064"/>
+			<add x="68660" y="41284" zmin="-3964" zmax="-3064"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67508" y="45740" zmin="-3996" zmax="-3296"/>
+			<add x="65596" y="45772" zmin="-3996" zmax="-3296"/>
+			<add x="65704" y="54152" zmin="-3996" zmax="-3296"/>
+			<add x="69100" y="50864" zmin="-3996" zmax="-3296"/>
+			<add x="69616" y="48732" zmin="-3996" zmax="-3296"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="66292" y="48160" zmin="-3936" zmax="-3536"/>
+			<add x="66308" y="51520" zmin="-3936" zmax="-3536"/>
+			<add x="68856" y="50288" zmin="-3936" zmax="-3536"/>
+			<add x="68816" y="48232" zmin="-3936" zmax="-3536"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65748" y="56868" zmin="-3764" zmax="-3264"/>
+			<add x="65760" y="54168" zmin="-3764" zmax="-3264"/>
+			<add x="69128" y="50884" zmin="-3764" zmax="-3264"/>
+			<add x="72104" y="53112" zmin="-3764" zmax="-3264"/>
+			<add x="71412" y="56440" zmin="-3764" zmax="-3264"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67740" y="52892" zmin="-3728" zmax="-3428"/>
+			<add x="68900" y="56336" zmin="-3728" zmax="-3428"/>
+			<add x="70508" y="55632" zmin="-3728" zmax="-3428"/>
+			<add x="70276" y="52088" zmin="-3728" zmax="-3428"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69112" y="50864" zmin="-3760" zmax="-3260"/>
+			<add x="69624" y="48708" zmin="-3760" zmax="-3260"/>
+			<add x="74092" y="48860" zmin="-3760" zmax="-3260"/>
+			<add x="72052" y="53092" zmin="-3760" zmax="-3260"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71496" y="48744" zmin="-3720" zmax="-3020"/>
+			<add x="73892" y="45372" zmin="-3720" zmax="-3020"/>
+			<add x="75268" y="46100" zmin="-3720" zmax="-3020"/>
+			<add x="73908" y="48836" zmin="-3720" zmax="-3020"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="76448" y="44300" zmin="-3268" zmax="-2668"/>
+			<add x="75268" y="46072" zmin="-3268" zmax="-2668"/>
+			<add x="73932" y="45356" zmin="-3268" zmax="-2668"/>
+			<add x="74488" y="43468" zmin="-3268" zmax="-2668"/>
+			<add x="75376" y="42856" zmin="-3268" zmax="-2668"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="74476" y="43464" zmin="-3220" zmax="-2620"/>
+			<add x="75368" y="42848" zmin="-3220" zmax="-2620"/>
+			<add x="75376" y="40744" zmin="-3220" zmax="-2620"/>
+			<add x="74760" y="40128" zmin="-3220" zmax="-2620"/>
+			<add x="73588" y="41156" zmin="-3220" zmax="-2620"/>
+			<add x="73492" y="42404" zmin="-3220" zmax="-2620"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67164" y="56844" zmin="-3844" zmax="-2844"/>
+			<add x="71368" y="60184" zmin="-3844" zmax="-2844"/>
+			<add x="73020" y="57660" zmin="-3844" zmax="-2844"/>
+			<add x="71872" y="56452" zmin="-3844" zmax="-2844"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68776" y="65288" zmin="-3768" zmax="-3168"/>
+			<add x="69048" y="58284" zmin="-3768" zmax="-3168"/>
+			<add x="71364" y="60128" zmin="-3768" zmax="-3168"/>
+			<add x="72388" y="62488" zmin="-3768" zmax="-3168"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68816" y="65268" zmin="-3764" zmax="-3264"/>
+			<add x="72380" y="62548" zmin="-3764" zmax="-3264"/>
+			<add x="75444" y="63548" zmin="-3764" zmax="-3264"/>
+			<add x="74568" y="65284" zmin="-3764" zmax="-3264"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75388" y="58080" zmin="-3188" zmax="-2688"/>
+			<add x="74284" y="57804" zmin="-3188" zmax="-2688"/>
+			<add x="72744" y="59672" zmin="-3188" zmax="-2688"/>
+			<add x="72740" y="61092" zmin="-3188" zmax="-2688"/>
+			<add x="74236" y="62288" zmin="-3188" zmax="-2688"/>
+			<add x="75100" y="62072" zmin="-3188" zmax="-2688"/>
+			<add x="77064" y="59460" zmin="-3188" zmax="-2688"/>
+			<add x="76536" y="58652" zmin="-3188" zmax="-2688"/>
+		</territory>
+		<npc id="20586"/>
+		<!--Timak Orc Warrior-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69452" y="36716" zmin="-3664" zmax="-3064"/>
+			<add x="70752" y="36332" zmin="-3664" zmax="-3064"/>
+			<add x="73856" y="39204" zmin="-3664" zmax="-3064"/>
+			<add x="70760" y="40964" zmin="-3664" zmax="-3064"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65700" y="41880" zmin="-3868" zmax="-3268"/>
+			<add x="65716" y="36564" zmin="-3868" zmax="-3268"/>
+			<add x="69412" y="36644" zmin="-3868" zmax="-3268"/>
+			<add x="70716" y="40920" zmin="-3868" zmax="-3268"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="66728" y="37900" zmin="-3832" zmax="-3432"/>
+			<add x="67944" y="40612" zmin="-3832" zmax="-3432"/>
+			<add x="70180" y="40600" zmin="-3832" zmax="-3432"/>
+			<add x="69348" y="37364" zmin="-3832" zmax="-3432"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65704" y="41848" zmin="-3964" zmax="-3064"/>
+			<add x="65712" y="45876" zmin="-3964" zmax="-3064"/>
+			<add x="67840" y="45804" zmin="-3964" zmax="-3064"/>
+			<add x="68660" y="41284" zmin="-3964" zmax="-3064"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67508" y="45740" zmin="-3996" zmax="-3296"/>
+			<add x="65596" y="45772" zmin="-3996" zmax="-3296"/>
+			<add x="65704" y="54152" zmin="-3996" zmax="-3296"/>
+			<add x="69100" y="50864" zmin="-3996" zmax="-3296"/>
+			<add x="69616" y="48732" zmin="-3996" zmax="-3296"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="66292" y="48160" zmin="-3936" zmax="-3536"/>
+			<add x="66308" y="51520" zmin="-3936" zmax="-3536"/>
+			<add x="68856" y="50288" zmin="-3936" zmax="-3536"/>
+			<add x="68816" y="48232" zmin="-3936" zmax="-3536"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65748" y="56868" zmin="-3764" zmax="-3264"/>
+			<add x="65760" y="54168" zmin="-3764" zmax="-3264"/>
+			<add x="69128" y="50884" zmin="-3764" zmax="-3264"/>
+			<add x="72104" y="53112" zmin="-3764" zmax="-3264"/>
+			<add x="71412" y="56440" zmin="-3764" zmax="-3264"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67740" y="52892" zmin="-3728" zmax="-3428"/>
+			<add x="68900" y="56336" zmin="-3728" zmax="-3428"/>
+			<add x="70508" y="55632" zmin="-3728" zmax="-3428"/>
+			<add x="70276" y="52088" zmin="-3728" zmax="-3428"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69112" y="50864" zmin="-3760" zmax="-3260"/>
+			<add x="69624" y="48708" zmin="-3760" zmax="-3260"/>
+			<add x="74092" y="48860" zmin="-3760" zmax="-3260"/>
+			<add x="72052" y="53092" zmin="-3760" zmax="-3260"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71496" y="48744" zmin="-3720" zmax="-3020"/>
+			<add x="73892" y="45372" zmin="-3720" zmax="-3020"/>
+			<add x="75268" y="46100" zmin="-3720" zmax="-3020"/>
+			<add x="73908" y="48836" zmin="-3720" zmax="-3020"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="76448" y="44300" zmin="-3268" zmax="-2668"/>
+			<add x="75268" y="46072" zmin="-3268" zmax="-2668"/>
+			<add x="73932" y="45356" zmin="-3268" zmax="-2668"/>
+			<add x="74488" y="43468" zmin="-3268" zmax="-2668"/>
+			<add x="75376" y="42856" zmin="-3268" zmax="-2668"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="74476" y="43464" zmin="-3220" zmax="-2620"/>
+			<add x="75368" y="42848" zmin="-3220" zmax="-2620"/>
+			<add x="75376" y="40744" zmin="-3220" zmax="-2620"/>
+			<add x="74760" y="40128" zmin="-3220" zmax="-2620"/>
+			<add x="73588" y="41156" zmin="-3220" zmax="-2620"/>
+			<add x="73492" y="42404" zmin="-3220" zmax="-2620"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67164" y="56844" zmin="-3844" zmax="-2844"/>
+			<add x="71368" y="60184" zmin="-3844" zmax="-2844"/>
+			<add x="73020" y="57660" zmin="-3844" zmax="-2844"/>
+			<add x="71872" y="56452" zmin="-3844" zmax="-2844"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68776" y="65288" zmin="-3768" zmax="-3168"/>
+			<add x="69048" y="58284" zmin="-3768" zmax="-3168"/>
+			<add x="71364" y="60128" zmin="-3768" zmax="-3168"/>
+			<add x="72388" y="62488" zmin="-3768" zmax="-3168"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68816" y="65268" zmin="-3764" zmax="-3264"/>
+			<add x="72380" y="62548" zmin="-3764" zmax="-3264"/>
+			<add x="75444" y="63548" zmin="-3764" zmax="-3264"/>
+			<add x="74568" y="65284" zmin="-3764" zmax="-3264"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75388" y="58080" zmin="-3188" zmax="-2688"/>
+			<add x="74284" y="57804" zmin="-3188" zmax="-2688"/>
+			<add x="72744" y="59672" zmin="-3188" zmax="-2688"/>
+			<add x="72740" y="61092" zmin="-3188" zmax="-2688"/>
+			<add x="74236" y="62288" zmin="-3188" zmax="-2688"/>
+			<add x="75100" y="62072" zmin="-3188" zmax="-2688"/>
+			<add x="77064" y="59460" zmin="-3188" zmax="-2688"/>
+			<add x="76536" y="58652" zmin="-3188" zmax="-2688"/>
+		</territory>
+		<npc id="20587"/>
+		<!--Timak Orc Shaman-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69452" y="36716" zmin="-3664" zmax="-3064"/>
+			<add x="70752" y="36332" zmin="-3664" zmax="-3064"/>
+			<add x="73856" y="39204" zmin="-3664" zmax="-3064"/>
+			<add x="70760" y="40964" zmin="-3664" zmax="-3064"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65700" y="41880" zmin="-3868" zmax="-3268"/>
+			<add x="65716" y="36564" zmin="-3868" zmax="-3268"/>
+			<add x="69412" y="36644" zmin="-3868" zmax="-3268"/>
+			<add x="70716" y="40920" zmin="-3868" zmax="-3268"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="66728" y="37900" zmin="-3832" zmax="-3432"/>
+			<add x="67944" y="40612" zmin="-3832" zmax="-3432"/>
+			<add x="70180" y="40600" zmin="-3832" zmax="-3432"/>
+			<add x="69348" y="37364" zmin="-3832" zmax="-3432"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65704" y="41848" zmin="-3964" zmax="-3064"/>
+			<add x="65712" y="45876" zmin="-3964" zmax="-3064"/>
+			<add x="67840" y="45804" zmin="-3964" zmax="-3064"/>
+			<add x="68660" y="41284" zmin="-3964" zmax="-3064"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67508" y="45740" zmin="-3996" zmax="-3296"/>
+			<add x="65596" y="45772" zmin="-3996" zmax="-3296"/>
+			<add x="65704" y="54152" zmin="-3996" zmax="-3296"/>
+			<add x="69100" y="50864" zmin="-3996" zmax="-3296"/>
+			<add x="69616" y="48732" zmin="-3996" zmax="-3296"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="66292" y="48160" zmin="-3936" zmax="-3536"/>
+			<add x="66308" y="51520" zmin="-3936" zmax="-3536"/>
+			<add x="68856" y="50288" zmin="-3936" zmax="-3536"/>
+			<add x="68816" y="48232" zmin="-3936" zmax="-3536"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65748" y="56868" zmin="-3764" zmax="-3264"/>
+			<add x="65760" y="54168" zmin="-3764" zmax="-3264"/>
+			<add x="69128" y="50884" zmin="-3764" zmax="-3264"/>
+			<add x="72104" y="53112" zmin="-3764" zmax="-3264"/>
+			<add x="71412" y="56440" zmin="-3764" zmax="-3264"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67740" y="52892" zmin="-3728" zmax="-3428"/>
+			<add x="68900" y="56336" zmin="-3728" zmax="-3428"/>
+			<add x="70508" y="55632" zmin="-3728" zmax="-3428"/>
+			<add x="70276" y="52088" zmin="-3728" zmax="-3428"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69112" y="50864" zmin="-3760" zmax="-3260"/>
+			<add x="69624" y="48708" zmin="-3760" zmax="-3260"/>
+			<add x="74092" y="48860" zmin="-3760" zmax="-3260"/>
+			<add x="72052" y="53092" zmin="-3760" zmax="-3260"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71496" y="48744" zmin="-3720" zmax="-3020"/>
+			<add x="73892" y="45372" zmin="-3720" zmax="-3020"/>
+			<add x="75268" y="46100" zmin="-3720" zmax="-3020"/>
+			<add x="73908" y="48836" zmin="-3720" zmax="-3020"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="76448" y="44300" zmin="-3268" zmax="-2668"/>
+			<add x="75268" y="46072" zmin="-3268" zmax="-2668"/>
+			<add x="73932" y="45356" zmin="-3268" zmax="-2668"/>
+			<add x="74488" y="43468" zmin="-3268" zmax="-2668"/>
+			<add x="75376" y="42856" zmin="-3268" zmax="-2668"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="1" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="74476" y="43464" zmin="-3220" zmax="-2620"/>
+			<add x="75368" y="42848" zmin="-3220" zmax="-2620"/>
+			<add x="75376" y="40744" zmin="-3220" zmax="-2620"/>
+			<add x="74760" y="40128" zmin="-3220" zmax="-2620"/>
+			<add x="73588" y="41156" zmin="-3220" zmax="-2620"/>
+			<add x="73492" y="42404" zmin="-3220" zmax="-2620"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="2" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67164" y="56844" zmin="-3844" zmax="-2844"/>
+			<add x="71368" y="60184" zmin="-3844" zmax="-2844"/>
+			<add x="73020" y="57660" zmin="-3844" zmax="-2844"/>
+			<add x="71872" y="56452" zmin="-3844" zmax="-2844"/>
+		</territory>
+		<npc id="20588"/>
+		<!--Timak Orc Overlord-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69452" y="36716" zmin="-3664" zmax="-3064"/>
+			<add x="70752" y="36332" zmin="-3664" zmax="-3064"/>
+			<add x="73856" y="39204" zmin="-3664" zmax="-3064"/>
+			<add x="70760" y="40964" zmin="-3664" zmax="-3064"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65700" y="41880" zmin="-3868" zmax="-3268"/>
+			<add x="65716" y="36564" zmin="-3868" zmax="-3268"/>
+			<add x="69412" y="36644" zmin="-3868" zmax="-3268"/>
+			<add x="70716" y="40920" zmin="-3868" zmax="-3268"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65704" y="41848" zmin="-3964" zmax="-3064"/>
+			<add x="65712" y="45876" zmin="-3964" zmax="-3064"/>
+			<add x="67840" y="45804" zmin="-3964" zmax="-3064"/>
+			<add x="68660" y="41284" zmin="-3964" zmax="-3064"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65596" y="45772" zmin="-3996" zmax="-3296"/>
+			<add x="67508" y="45740" zmin="-3996" zmax="-3296"/>
+			<add x="69616" y="48732" zmin="-3996" zmax="-3296"/>
+			<add x="69100" y="50864" zmin="-3996" zmax="-3296"/>
+			<add x="65704" y="54152" zmin="-3996" zmax="-3296"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="65748" y="56868" zmin="-3764" zmax="-3264"/>
+			<add x="65760" y="54168" zmin="-3764" zmax="-3264"/>
+			<add x="69128" y="50884" zmin="-3764" zmax="-3264"/>
+			<add x="72104" y="53112" zmin="-3764" zmax="-3264"/>
+			<add x="71412" y="56440" zmin="-3764" zmax="-3264"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69112" y="50864" zmin="-3760" zmax="-3260"/>
+			<add x="69624" y="48708" zmin="-3760" zmax="-3260"/>
+			<add x="74092" y="48860" zmin="-3760" zmax="-3260"/>
+			<add x="72052" y="53092" zmin="-3760" zmax="-3260"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="71496" y="48744" zmin="-3720" zmax="-3020"/>
+			<add x="73892" y="45372" zmin="-3720" zmax="-3020"/>
+			<add x="75268" y="46100" zmin="-3720" zmax="-3020"/>
+			<add x="73908" y="48836" zmin="-3720" zmax="-3020"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="76448" y="44300" zmin="-3268" zmax="-2668"/>
+			<add x="75268" y="46072" zmin="-3268" zmax="-2668"/>
+			<add x="73932" y="45356" zmin="-3268" zmax="-2668"/>
+			<add x="74488" y="43468" zmin="-3268" zmax="-2668"/>
+			<add x="75376" y="42856" zmin="-3268" zmax="-2668"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="74476" y="43464" zmin="-3220" zmax="-2620"/>
+			<add x="75368" y="42848" zmin="-3220" zmax="-2620"/>
+			<add x="75376" y="40744" zmin="-3220" zmax="-2620"/>
+			<add x="74760" y="40128" zmin="-3220" zmax="-2620"/>
+			<add x="73588" y="41156" zmin="-3220" zmax="-2620"/>
+			<add x="73492" y="42404" zmin="-3220" zmax="-2620"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67164" y="56844" zmin="-3844" zmax="-2844"/>
+			<add x="71368" y="60184" zmin="-3844" zmax="-2844"/>
+			<add x="73020" y="57660" zmin="-3844" zmax="-2844"/>
+			<add x="71872" y="56452" zmin="-3844" zmax="-2844"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="3" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68776" y="65288" zmin="-3768" zmax="-3168"/>
+			<add x="69048" y="58284" zmin="-3768" zmax="-3168"/>
+			<add x="71364" y="60128" zmin="-3768" zmax="-3168"/>
+			<add x="72388" y="62488" zmin="-3768" zmax="-3168"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="68816" y="65268" zmin="-3764" zmax="-3264"/>
+			<add x="72380" y="62548" zmin="-3764" zmax="-3264"/>
+			<add x="75444" y="63548" zmin="-3764" zmax="-3264"/>
+			<add x="74568" y="65284" zmin="-3764" zmax="-3264"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="4" respawn="40" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="75388" y="58080" zmin="-3188" zmax="-2688"/>
+			<add x="74284" y="57804" zmin="-3188" zmax="-2688"/>
+			<add x="72744" y="59672" zmin="-3188" zmax="-2688"/>
+			<add x="72740" y="61092" zmin="-3188" zmax="-2688"/>
+			<add x="74236" y="62288" zmin="-3188" zmax="-2688"/>
+			<add x="75100" y="62072" zmin="-3188" zmax="-2688"/>
+			<add x="77064" y="59460" zmin="-3188" zmax="-2688"/>
+			<add x="76536" y="58652" zmin="-3188" zmax="-2688"/>
+		</territory>
+		<npc id="20767"/>
+		<!--Timak Orc Troop Leader-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="66184" y="47032" zmin="-3948" zmax="-3348"/>
+			<add x="66280" y="46420" zmin="-3948" zmax="-3348"/>
+			<add x="66756" y="46216" zmin="-3948" zmax="-3348"/>
+			<add x="67088" y="46772" zmin="-3948" zmax="-3348"/>
+			<add x="66792" y="47256" zmin="-3948" zmax="-3348"/>
+		</territory>
+		<npc id="25230"/>
+		<!--Timak Seer Ragoth-->
+	</spawn>
+	<spawn count="1" respawn="86400" respawn_random="21600" period_of_day="none">
+		<territory>
+			<add x="66384" y="64036" zmin="-3844" zmax="-3244"/>
+			<add x="66500" y="64744" zmin="-3844" zmax="-3244"/>
+			<add x="67464" y="64848" zmin="-3844" zmax="-3244"/>
+			<add x="68244" y="64340" zmin="-3844" zmax="-3244"/>
+			<add x="67800" y="63212" zmin="-3844" zmax="-3244"/>
+		</territory>
+		<npc id="25437"/>
+		<!--Timak Orc Gosmos-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="82170" y="60979" zmin="-3588" zmax="-3088"/>
+			<add x="83709" y="60994" zmin="-3588" zmax="-3088"/>
+			<add x="83888" y="61996" zmin="-3588" zmax="-3088"/>
+			<add x="82272" y="62100" zmin="-3588" zmax="-3088"/>
+			<add x="81839" y="61514" zmin="-3588" zmax="-3088"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83403" y="62403" zmin="-3792" zmax="-3292"/>
+			<add x="85021" y="61698" zmin="-3792" zmax="-3292"/>
+			<add x="85296" y="63480" zmin="-3792" zmax="-3292"/>
+			<add x="83382" y="63505" zmin="-3792" zmax="-3292"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83403" y="62403" zmin="-3792" zmax="-3292"/>
+			<add x="85021" y="61698" zmin="-3792" zmax="-3292"/>
+			<add x="85296" y="63480" zmin="-3792" zmax="-3292"/>
+			<add x="83382" y="63505" zmin="-3792" zmax="-3292"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83403" y="62403" zmin="-3792" zmax="-3292"/>
+			<add x="85021" y="61698" zmin="-3792" zmax="-3292"/>
+			<add x="85296" y="63480" zmin="-3792" zmax="-3292"/>
+			<add x="83382" y="63505" zmin="-3792" zmax="-3292"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86014" y="61423" zmin="-3763" zmax="-3263"/>
+			<add x="85997" y="59645" zmin="-3763" zmax="-3263"/>
+			<add x="86997" y="60893" zmin="-3763" zmax="-3263"/>
+			<add x="86449" y="62341" zmin="-3763" zmax="-3263"/>
+			<add x="86625" y="63063" zmin="-3763" zmax="-3263"/>
+			<add x="85469" y="63419" zmin="-3763" zmax="-3263"/>
+			<add x="85459" y="61733" zmin="-3763" zmax="-3263"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86014" y="61423" zmin="-3763" zmax="-3263"/>
+			<add x="85997" y="59645" zmin="-3763" zmax="-3263"/>
+			<add x="86997" y="60893" zmin="-3763" zmax="-3263"/>
+			<add x="86449" y="62341" zmin="-3763" zmax="-3263"/>
+			<add x="86625" y="63063" zmin="-3763" zmax="-3263"/>
+			<add x="85469" y="63419" zmin="-3763" zmax="-3263"/>
+			<add x="85459" y="61733" zmin="-3763" zmax="-3263"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="86014" y="61423" zmin="-3763" zmax="-3263"/>
+			<add x="85997" y="59645" zmin="-3763" zmax="-3263"/>
+			<add x="86997" y="60893" zmin="-3763" zmax="-3263"/>
+			<add x="86449" y="62341" zmin="-3763" zmax="-3263"/>
+			<add x="86625" y="63063" zmin="-3763" zmax="-3263"/>
+			<add x="85469" y="63419" zmin="-3763" zmax="-3263"/>
+			<add x="85459" y="61733" zmin="-3763" zmax="-3263"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87690" y="62016" zmin="-3796" zmax="-3296"/>
+			<add x="87970" y="62242" zmin="-3796" zmax="-3296"/>
+			<add x="87986" y="62960" zmin="-3796" zmax="-3296"/>
+			<add x="87759" y="63171" zmin="-3796" zmax="-3296"/>
+			<add x="87245" y="63191" zmin="-3796" zmax="-3296"/>
+			<add x="86861" y="62975" zmin="-3796" zmax="-3296"/>
+			<add x="86849" y="62241" zmin="-3796" zmax="-3296"/>
+			<add x="87035" y="62022" zmin="-3796" zmax="-3296"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87690" y="62016" zmin="-3796" zmax="-3296"/>
+			<add x="87970" y="62242" zmin="-3796" zmax="-3296"/>
+			<add x="87986" y="62960" zmin="-3796" zmax="-3296"/>
+			<add x="87759" y="63171" zmin="-3796" zmax="-3296"/>
+			<add x="87245" y="63191" zmin="-3796" zmax="-3296"/>
+			<add x="86861" y="62975" zmin="-3796" zmax="-3296"/>
+			<add x="86849" y="62241" zmin="-3796" zmax="-3296"/>
+			<add x="87035" y="62022" zmin="-3796" zmax="-3296"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87690" y="62016" zmin="-3796" zmax="-3296"/>
+			<add x="87970" y="62242" zmin="-3796" zmax="-3296"/>
+			<add x="87986" y="62960" zmin="-3796" zmax="-3296"/>
+			<add x="87759" y="63171" zmin="-3796" zmax="-3296"/>
+			<add x="87245" y="63191" zmin="-3796" zmax="-3296"/>
+			<add x="86861" y="62975" zmin="-3796" zmax="-3296"/>
+			<add x="86849" y="62241" zmin="-3796" zmax="-3296"/>
+			<add x="87035" y="62022" zmin="-3796" zmax="-3296"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91600" y="60092" zmin="-3752" zmax="-3252"/>
+			<add x="89860" y="61432" zmin="-3752" zmax="-3252"/>
+			<add x="89232" y="60372" zmin="-3752" zmax="-3252"/>
+			<add x="87996" y="61452" zmin="-3752" zmax="-3252"/>
+			<add x="87092" y="58908" zmin="-3752" zmax="-3252"/>
+			<add x="87744" y="58788" zmin="-3752" zmax="-3252"/>
+			<add x="88340" y="58672" zmin="-3752" zmax="-3252"/>
+			<add x="89576" y="59936" zmin="-3752" zmax="-3252"/>
+			<add x="90408" y="59420" zmin="-3752" zmax="-3252"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91600" y="60092" zmin="-3752" zmax="-3252"/>
+			<add x="89860" y="61432" zmin="-3752" zmax="-3252"/>
+			<add x="89232" y="60372" zmin="-3752" zmax="-3252"/>
+			<add x="87996" y="61452" zmin="-3752" zmax="-3252"/>
+			<add x="87092" y="58908" zmin="-3752" zmax="-3252"/>
+			<add x="87744" y="58788" zmin="-3752" zmax="-3252"/>
+			<add x="88340" y="58672" zmin="-3752" zmax="-3252"/>
+			<add x="89576" y="59936" zmin="-3752" zmax="-3252"/>
+			<add x="90408" y="59420" zmin="-3752" zmax="-3252"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91600" y="60092" zmin="-3752" zmax="-3252"/>
+			<add x="89860" y="61432" zmin="-3752" zmax="-3252"/>
+			<add x="89232" y="60372" zmin="-3752" zmax="-3252"/>
+			<add x="87996" y="61452" zmin="-3752" zmax="-3252"/>
+			<add x="87092" y="58908" zmin="-3752" zmax="-3252"/>
+			<add x="87744" y="58788" zmin="-3752" zmax="-3252"/>
+			<add x="88340" y="58672" zmin="-3752" zmax="-3252"/>
+			<add x="89576" y="59936" zmin="-3752" zmax="-3252"/>
+			<add x="90408" y="59420" zmin="-3752" zmax="-3252"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85533" y="52869" zmin="-3814" zmax="-2914"/>
+			<add x="86466" y="52811" zmin="-3814" zmax="-2914"/>
+			<add x="87288" y="53936" zmin="-3814" zmax="-2914"/>
+			<add x="91715" y="53798" zmin="-3814" zmax="-2914"/>
+			<add x="90704" y="55169" zmin="-3814" zmax="-2914"/>
+			<add x="84835" y="55169" zmin="-3814" zmax="-2914"/>
+			<add x="85190" y="54129" zmin="-3814" zmax="-2914"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85533" y="52869" zmin="-3814" zmax="-2914"/>
+			<add x="86466" y="52811" zmin="-3814" zmax="-2914"/>
+			<add x="87288" y="53936" zmin="-3814" zmax="-2914"/>
+			<add x="91715" y="53798" zmin="-3814" zmax="-2914"/>
+			<add x="90704" y="55169" zmin="-3814" zmax="-2914"/>
+			<add x="84835" y="55169" zmin="-3814" zmax="-2914"/>
+			<add x="85190" y="54129" zmin="-3814" zmax="-2914"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="85533" y="52869" zmin="-3814" zmax="-2914"/>
+			<add x="86466" y="52811" zmin="-3814" zmax="-2914"/>
+			<add x="87288" y="53936" zmin="-3814" zmax="-2914"/>
+			<add x="91715" y="53798" zmin="-3814" zmax="-2914"/>
+			<add x="90704" y="55169" zmin="-3814" zmax="-2914"/>
+			<add x="84835" y="55169" zmin="-3814" zmax="-2914"/>
+			<add x="85190" y="54129" zmin="-3814" zmax="-2914"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90656" y="54692" zmin="-3884" zmax="-3184"/>
+			<add x="95136" y="53856" zmin="-3884" zmax="-3184"/>
+			<add x="95200" y="55648" zmin="-3884" zmax="-3184"/>
+			<add x="91276" y="57156" zmin="-3884" zmax="-3184"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90656" y="54692" zmin="-3884" zmax="-3184"/>
+			<add x="95136" y="53856" zmin="-3884" zmax="-3184"/>
+			<add x="95200" y="55648" zmin="-3884" zmax="-3184"/>
+			<add x="91276" y="57156" zmin="-3884" zmax="-3184"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90656" y="54692" zmin="-3884" zmax="-3184"/>
+			<add x="95136" y="53856" zmin="-3884" zmax="-3184"/>
+			<add x="95200" y="55648" zmin="-3884" zmax="-3184"/>
+			<add x="91276" y="57156" zmin="-3884" zmax="-3184"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90446" y="57650" zmin="-3792" zmax="-3292"/>
+			<add x="91286" y="57416" zmin="-3792" zmax="-3292"/>
+			<add x="91862" y="58022" zmin="-3792" zmax="-3292"/>
+			<add x="90758" y="58723" zmin="-3792" zmax="-3292"/>
+			<add x="90250" y="58405" zmin="-3792" zmax="-3292"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90446" y="57650" zmin="-3792" zmax="-3292"/>
+			<add x="91286" y="57416" zmin="-3792" zmax="-3292"/>
+			<add x="91862" y="58022" zmin="-3792" zmax="-3292"/>
+			<add x="90758" y="58723" zmin="-3792" zmax="-3292"/>
+			<add x="90250" y="58405" zmin="-3792" zmax="-3292"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="90446" y="57650" zmin="-3792" zmax="-3292"/>
+			<add x="91286" y="57416" zmin="-3792" zmax="-3292"/>
+			<add x="91862" y="58022" zmin="-3792" zmax="-3292"/>
+			<add x="90758" y="58723" zmin="-3792" zmax="-3292"/>
+			<add x="90250" y="58405" zmin="-3792" zmax="-3292"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93611" y="59711" zmin="-3607" zmax="-2707"/>
+			<add x="93359" y="61881" zmin="-3607" zmax="-2707"/>
+			<add x="95030" y="63317" zmin="-3607" zmax="-2707"/>
+			<add x="92784" y="64660" zmin="-3607" zmax="-2707"/>
+			<add x="92807" y="60930" zmin="-3607" zmax="-2707"/>
+			<add x="90674" y="61016" zmin="-3607" zmax="-2707"/>
+			<add x="91779" y="60126" zmin="-3607" zmax="-2707"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93611" y="59711" zmin="-3607" zmax="-2707"/>
+			<add x="93359" y="61881" zmin="-3607" zmax="-2707"/>
+			<add x="95030" y="63317" zmin="-3607" zmax="-2707"/>
+			<add x="92784" y="64660" zmin="-3607" zmax="-2707"/>
+			<add x="92807" y="60930" zmin="-3607" zmax="-2707"/>
+			<add x="90674" y="61016" zmin="-3607" zmax="-2707"/>
+			<add x="91779" y="60126" zmin="-3607" zmax="-2707"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93611" y="59711" zmin="-3607" zmax="-2707"/>
+			<add x="93359" y="61881" zmin="-3607" zmax="-2707"/>
+			<add x="95030" y="63317" zmin="-3607" zmax="-2707"/>
+			<add x="92784" y="64660" zmin="-3607" zmax="-2707"/>
+			<add x="92807" y="60930" zmin="-3607" zmax="-2707"/>
+			<add x="90674" y="61016" zmin="-3607" zmax="-2707"/>
+			<add x="91779" y="60126" zmin="-3607" zmax="-2707"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87181" y="63615" zmin="-3775" zmax="-2875"/>
+			<add x="89357" y="63544" zmin="-3775" zmax="-2875"/>
+			<add x="90439" y="65376" zmin="-3775" zmax="-2875"/>
+			<add x="85342" y="65382" zmin="-3775" zmax="-2875"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87181" y="63615" zmin="-3775" zmax="-2875"/>
+			<add x="89357" y="63544" zmin="-3775" zmax="-2875"/>
+			<add x="90439" y="65376" zmin="-3775" zmax="-2875"/>
+			<add x="85342" y="65382" zmin="-3775" zmax="-2875"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="87181" y="63615" zmin="-3775" zmax="-2875"/>
+			<add x="89357" y="63544" zmin="-3775" zmax="-2875"/>
+			<add x="90439" y="65376" zmin="-3775" zmax="-2875"/>
+			<add x="85342" y="65382" zmin="-3775" zmax="-2875"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80679" y="63410" zmin="-3747" zmax="-3447"/>
+			<add x="84281" y="63414" zmin="-3747" zmax="-3447"/>
+			<add x="83902" y="64048" zmin="-3747" zmax="-3447"/>
+			<add x="81914" y="64346" zmin="-3747" zmax="-3447"/>
+			<add x="80889" y="64378" zmin="-3747" zmax="-3447"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80679" y="63410" zmin="-3747" zmax="-3447"/>
+			<add x="84281" y="63414" zmin="-3747" zmax="-3447"/>
+			<add x="83902" y="64048" zmin="-3747" zmax="-3447"/>
+			<add x="81914" y="64346" zmin="-3747" zmax="-3447"/>
+			<add x="80889" y="64378" zmin="-3747" zmax="-3447"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80679" y="63410" zmin="-3747" zmax="-3447"/>
+			<add x="84281" y="63414" zmin="-3747" zmax="-3447"/>
+			<add x="83902" y="64048" zmin="-3747" zmax="-3447"/>
+			<add x="81914" y="64346" zmin="-3747" zmax="-3447"/>
+			<add x="80889" y="64378" zmin="-3747" zmax="-3447"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79222" y="62307" zmin="-3753" zmax="-3253"/>
+			<add x="79328" y="63351" zmin="-3753" zmax="-3253"/>
+			<add x="80491" y="63358" zmin="-3753" zmax="-3253"/>
+			<add x="79353" y="64478" zmin="-3753" zmax="-3253"/>
+			<add x="77922" y="63938" zmin="-3753" zmax="-3253"/>
+			<add x="77781" y="63421" zmin="-3753" zmax="-3253"/>
+			<add x="78200" y="62962" zmin="-3753" zmax="-3253"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79222" y="62307" zmin="-3753" zmax="-3253"/>
+			<add x="79328" y="63351" zmin="-3753" zmax="-3253"/>
+			<add x="80491" y="63358" zmin="-3753" zmax="-3253"/>
+			<add x="79353" y="64478" zmin="-3753" zmax="-3253"/>
+			<add x="77922" y="63938" zmin="-3753" zmax="-3253"/>
+			<add x="77781" y="63421" zmin="-3753" zmax="-3253"/>
+			<add x="78200" y="62962" zmin="-3753" zmax="-3253"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="79222" y="62307" zmin="-3753" zmax="-3253"/>
+			<add x="79328" y="63351" zmin="-3753" zmax="-3253"/>
+			<add x="80491" y="63358" zmin="-3753" zmax="-3253"/>
+			<add x="79353" y="64478" zmin="-3753" zmax="-3253"/>
+			<add x="77922" y="63938" zmin="-3753" zmax="-3253"/>
+			<add x="77781" y="63421" zmin="-3753" zmax="-3253"/>
+			<add x="78200" y="62962" zmin="-3753" zmax="-3253"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="10" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80414" y="64560" zmin="-3545" zmax="-2645"/>
+			<add x="81342" y="64639" zmin="-3545" zmax="-2645"/>
+			<add x="81877" y="65313" zmin="-3545" zmax="-2645"/>
+			<add x="77112" y="65303" zmin="-3545" zmax="-2645"/>
+			<add x="77711" y="65024" zmin="-3545" zmax="-2645"/>
+			<add x="78683" y="64654" zmin="-3545" zmax="-2645"/>
+			<add x="79851" y="64745" zmin="-3545" zmax="-2645"/>
+		</territory>
+		<npc id="22787"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80414" y="64560" zmin="-3545" zmax="-2645"/>
+			<add x="81342" y="64639" zmin="-3545" zmax="-2645"/>
+			<add x="81877" y="65313" zmin="-3545" zmax="-2645"/>
+			<add x="77112" y="65303" zmin="-3545" zmax="-2645"/>
+			<add x="77711" y="65024" zmin="-3545" zmax="-2645"/>
+			<add x="78683" y="64654" zmin="-3545" zmax="-2645"/>
+			<add x="79851" y="64745" zmin="-3545" zmax="-2645"/>
+		</territory>
+		<npc id="22786"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="80414" y="64560" zmin="-3545" zmax="-2645"/>
+			<add x="81342" y="64639" zmin="-3545" zmax="-2645"/>
+			<add x="81877" y="65313" zmin="-3545" zmax="-2645"/>
+			<add x="77112" y="65303" zmin="-3545" zmax="-2645"/>
+			<add x="77711" y="65024" zmin="-3545" zmax="-2645"/>
+			<add x="78683" y="64654" zmin="-3545" zmax="-2645"/>
+			<add x="79851" y="64745" zmin="-3545" zmax="-2645"/>
+		</territory>
+		<npc id="22788"/>
+		<!--Sel Mahum Squad Leader-->
+	</spawn>
+</list>

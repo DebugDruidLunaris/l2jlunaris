@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<skill id="22100" levels="1" name="Soul Scent">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys.icon.br_ghost_incense_i00" />
+		<set name="reuseDelay" val="5000" />
+		<set name="castRange" val="400" />
+		<set name="hitTime" val="1500" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="Unique1" time="300" val="0">
+				<mul order="0x30" stat="maxHp" val="1.4" />
+				<mul order="0x30" stat="maxMp" val="1.4" />
+				<mul order="0x30" stat="maxCp" val="1.4" />
+				<mul order="0x30" stat="pDef" val="1.3" />
+				<mul order="0x30" stat="mDef" val="1.3" />
+				<add order="0x40" stat="runSpd" val="20" />
+				<mul order="0x30" stat="mAtk" val="1.45" />
+				<mul order="0x30" stat="mpConsumePhysical" val="0.9" />
+				<mul order="0x30" stat="mpConsum" val="0.9" />
+			</effect>
+		</for>		
+	</skill>
+	<skill id="22101" levels="1" name="Fortune of Love Box" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22102" levels="1" name="Soul Magic Box" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="86400000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22103" levels="1" name="Blessed Scroll of Escape - event" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="200" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22104" levels="1" name="Blessed Scroll of Resurrection - event" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="castRange" val="400" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22105" levels="1" name="Wooldy Summon Scroll - Event" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="12000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="1500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22106" levels="1" name="Verdandi Summon Scroll - Event" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="12000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="1500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22107" levels="1" name="Skooldy Summon Scroll - Event" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="12000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="1500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22108" levels="1" name="Halloween Toy Box" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22109" levels="1" name="Shiny Halloween Toy Box" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22110" levels="1" name="Lucky Sky Lantern Summon" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22111" levels="1" name="Ambient Sky Lantern Summon" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22112" levels="1" name="Sway Sky Lantern Summon" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22113" levels="1" name="Comfort Sky Lantern Summon" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22114" levels="1" name="Morph Scroll Box" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22115" levels="1" name="Santa's Weapon Exchange Ticket Box" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22116" levels="1" name="Summon Flames Box" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys.icon.br_fire_box_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22117" levels="1" name="Flames Box Firework" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0788" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22118" levels="1" name="Warmth of Kotatz" >
+		<set name="icon" val="BranchSys.icon.br_kotatsu_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="3600" val="0">
+				<mul order="0x30" stat="regHp" val="1.4" />
+				<mul order="0x30" stat="regMp" val="1.2" />
+				<mul order="0x30" stat="regCp" val="1.3" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22119" levels="1" name="Love for All Seasons" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_a_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="3600" val="0">
+				<mul order="0x30" stat="mAtk" val="1.75" />
+				<add order="0x40" stat="mCritRate" val="2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22120" levels="1" name="Happy New Year" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_b_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="3600" val="0">
+				<add order="0x30" stat="rCrit" val="30" />
+				<mul order="0x30" stat="cAtk" val="1.35" />
+				<add order="0x30" stat="accCombat" val="4" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22121" levels="1" name="Female Aniruddha" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_c_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="3600" val="0">
+				<mul order="0x30" stat="pDef" val="1.15" />
+				<mul order="0x30" stat="mDef" val="1.3" />
+				<add order="0x30" stat="rShld" val="15" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22122" levels="1" name="Kung Hei Fat Choy" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_d_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="3600" val="0">
+				<mul order="0x30" stat="mAtk" val="1.16" />
+				<mul order="0x30" stat="pAtk" val="1.08" />
+				<mul order="0x30" stat="pDef" val="0.92" />
+				<mul order="0x30" stat="mDef" val="0.84" />
+				<mul order="0x30" stat="mAtkSpd" val="1.08" />
+				<mul order="0x30" stat="pAtkSpd" val="1.08" />
+				<add order="0x40" stat="runSpd" val="8" />
+				<sub order="0x40" stat="rEvas" val="4" />
+				<add order="0x40" stat="absorbDam" val="9" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22123" levels="1" name="Chinese Feast" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_e_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="3600" val="0">
+			<mul order="0x30" stat="mAtkSpd" val="1.3" />
+			<mul order="0x30" stat="maxMp" val="1.35" />
+			<mul order="0x30" stat="mpConsum" val="0.9" />
+			<mul order="0x30" stat="mpConsumePhysical" val="0.8" />
+			<mul order="0x30" stat="mpDanceConsume" val="0.8" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22124" levels="1" name="Hwa Gei Bu Gwi" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_f_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="3600" val="0">
+			<mul order="0x30" stat="pAtkSpd" val="1.33" />
+			<add order="0x40" stat="maxNoPenaltyLoad" val="9000" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22125" levels="1" name="Fire Stamp" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_g_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="3600" val="0">
+			<add order="0x30" stat="runSpd" val="33" />
+			<add order="0x30" stat="rEvas" val="4" />
+			<mul order="0x30" stat="maxHp" val="1.35" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22126" levels="1" name="Baby Food Skill" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys.br_baby_food_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="castRange" val="400" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22127" levels="1" name="Summon Warm Kotatz" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys.icon.br_kotatsu_i00" />
+		<set name="reuseDelay" val="600000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22128" levels="3" name="Rudolph's Joy" >
+		<set name="icon" val="icon.skill1256" />
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_ONE" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="300" val="0">
+				<mul order="0x30" stat="mAtkSpd" val="1.1" />
+				<mul order="0x30" stat="pAtkSpd" val="1.1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22129" levels="1" name="Red Dimensional Stone" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="reuseDelay" val="18000000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="3000" />
+		<set name="hitCancelTime" val="1500" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22130" levels="1" name="Food of Doubt's Effect" >
+		<set name="icon" val="BranchSys.br_rudolf_food_unknown_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22131" levels="1" name="Red Firework Flames" >
+		<set name="icon" val="BranchSys.icon.br_firecracker_red_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="600" val="0">
+				<add order="0x40" stat="defenceWater" val="30" />
+				<add order="0x40" stat="STR" val="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22132" levels="1" name="Gold Firework Flames" >
+		<set name="icon" val="BranchSys.icon.br_firecracker_gold_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="600" val="0">
+				<add order="0x40" stat="defenceHoly" val="30" />
+				<add order="0x40" stat="CON" val="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22133" levels="1" name="Blue Firework Flames" >
+		<set name="icon" val="BranchSys.icon.br_firecracker_blue_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="600" val="0">
+				<add order="0x40" stat="defenceFire" val="30" />
+				<add order="0x40" stat="DEX" val="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22134" levels="1" name="Pink Firework Flames" >
+		<set name="icon" val="BranchSys.icon.br_firecracker_pink_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="600" val="0">
+				<add order="0x40" stat="defenceEarth" val="30" />
+				<add order="0x40" stat="MEN" val="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22135" levels="1" name="White Firework Flames" >
+		<set name="icon" val="BranchSys.icon.br_firecracker_white_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="600" val="0">
+				<add order="0x40" stat="defenceWind" val="30" />
+				<add order="0x40" stat="WIT" val="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22136" levels="1" name="Silver Firework Flames" >
+		<set name="icon" val="BranchSys.icon.br_firecracker_silver_i00" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="0" stackType="0" time="600" val="0">
+				<add order="0x40" stat="defenceUnholy" val="30" />
+				<add order="0x40" stat="INT" val="1" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22137" levels="1" name="Star Food" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22138" levels="1" name="Mango Dessert" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys.icon.br_thai_desert_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22139" levels="1" name="Branding Wind Walk" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_g_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="SpeedUp" time="3600" val="0">
+				<add order="0x40" stat="runSpd" val="33" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22140" levels="1" name="Hwa Gei Bu Gwi Haste" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_f_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="pAtkSpeedUp" time="3600" val="0">
+				<mul order="0x30" stat="pAtkSpd" val="1.33" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22141" levels="1" name="Branding Agility" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_g_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="rEvas" time="3600" val="0">
+				<add order="0x40" stat="rEvas" val="4" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22142" levels="1" name="Female Aniruddha's Shield" >
+		<!--  Automatically generated from The Gracia Epilogue client files.
+			  Description: Increases P. Def. by 15% for 1 hour.
+			  Target is set to TARGET_NONE, skillType  to NOTDONE for server compatability.
+			  created 16-12-2009  18:32
+		-->
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_c_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="pDef" time="3600" val="0">
+				<mul order="0x30" stat="pDef" val="1.15" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22143" levels="1" name="Happy New Year Death Whisper" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_b_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="cAtk" time="3600" val="0">
+				<mul order="0x30" stat="cAtk" val="1.35" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22144" levels="1" name="Happy New Year Guidance" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_b_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="accuracyUp" time="3600" val="0">
+				<add order="0x40" stat="accCombat" val="4" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22145" levels="1" name="Love for All Seasons Empower" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_a_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="mAtk" time="3600" val="0">
+				<mul order="0x30" stat="mAtk" val="1.75" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22146" levels="1" name="Chinese Feast Greater Acumen" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_e_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="mAtkSpeedUp" time="3600" val="0">
+				<mul order="0x30" stat="mAtkSpd" val="1.3" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22147" levels="1" name="Kung Hei Fat Choy Vampiric Rage" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_d_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="9" stackType="vampRage" time="3600" val="0">
+				<mul order="0x30" stat="absorbDam" val="9" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22148" levels="1" name="Branding Blessed Body" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_g_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="6" stackType="hp_up" time="3600" val="0">
+				<mul order="0x30" stat="maxHp" val="1.35" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22149" levels="1" name="Kung Hei Fat Choy Berserker Spirit" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_d_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="2" stackType="berserk" time="3600" val="0">
+				<mul order="0x30" stat="mAtk" val="1.16" />
+				<mul order="0x30" stat="pAtk" val="1.08" />
+				<mul order="0x30" stat="pDef" val="0.92" />
+				<mul order="0x30" stat="mDef" val="0.84" />
+				<mul order="0x30" stat="mAtkSpd" val="1.08" />
+				<mul order="0x30" stat="pAtkSpd" val="1.08" />
+				<add order="0x40" stat="runSpd" val="8" />
+				<sub order="0x40" stat="rEvas" val="4" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22150" levels="1" name="Female Aniruddha's Magic Barrier" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_c_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="2" stackType="MagicDefUp" time="3600" val="0">
+				<mul order="0x30" stat="mDef" val="1.3" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22151" levels="1" name="Chinese Feast Blessed Soul" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_e_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="6" stackType="mp_up" time="3600" val="0">
+				<mul order="0x30" stat="maxMp" val="1.35" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22152" levels="1" name="Chinese Feast Clarity" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_e_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="clarity" time="3600" val="0">
+				<mul order="0x30" stat="mpConsum" val="0.9" />
+				<mul order="0x30" stat="mpConsumePhysical" val="0.8" />
+				<mul order="0x30" stat="mpDanceConsume" val="0.8" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22153" levels="1" name="Love for All Seasons Wild Magic" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_a_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="2" stackType="magicCritUp" time="3600" val="0">
+				<add order="0x40" stat="mCritRate" val="2" />
+			</effect>
+		</for>	
+	</skill>
+	<skill id="22154" levels="1" name="Happy New Year Focus" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_b_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="rCrit" time="3600" val="0">
+				<add order="0x40" stat="rCrit" val="1.3" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22155" levels="1" name="Female Aniruddha's Blessed Shield" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_c_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="6" stackType="shieldProbUp" time="3600" val="0">
+				<add order="0x30" stat="rShld" val="15" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22156" levels="1" name="Hwa Gei Bu Gwi Decrease Weight" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_f_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="weight" time="3600" val="0">
+				<add order="0x40" stat="maxNoPenaltyLoad" val="9000" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22157" levels="1" name="Kung Hei Fat Choy Might" >
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_d_i00" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="3" stackType="pAtk" time="3600" val="0">
+				<mul order="0x30" stat="pAtk" val="1.15" />
+			</effect>
+		</for>	
+	</skill>
+	<skill id="22158" levels="10" name="Rose Petal">
+		<table name="#abnormalLvl"> 1 2 3 4 5 6 7 8 9 10 </table>
+		<set name="ignoreSkillMute" val="true" />
+		<set name="aggroPoints" val="100" />
+		<set name="hitTime" val="100" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="icon" val="BranchSys2.icon.Br_herb_rose_red_i09" />
+		<set name="hitCancelTime" val="500" />
+		<set name="skillType" val="BUFF" />
+		<set name="target" val="TARGET_SELF" />
+		<for>
+			<effect name="Buff" time="300" val="0" abnormalLvl="#abnormalLvl" abnormalType="br_event_buf1">
+				<mul order="0x30" stat="regHp" val="1.2" />
+				<mul order="0x30" stat="regMp" val="1.2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22159" levels="1" name="Vesper Super Power">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys2.icon.br_royal_crown_of_vesper_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect applyOnCaster="true" abnormal="vesper1" count="1" name="Buff" stackOrder="1" stackType="VesperHerb" time="600" val="0">
+				<mul order="0x30" stat="pAtk" val="1.15" />
+				<mul order="0x30" stat="mAtk" val="1.15" />
+				<add order="0x40" stat="runSpd" val="10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22160" levels="1" name="Vesper Critical Power">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys2.icon.br_royal_circlet_of_vesper_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect applyOnCaster="true" abnormal="vesper2" count="1" name="Buff" stackOrder="1" stackType="VesperHerb" time="600" val="0">
+				<add order="0x40" stat="rCrit" val="15" />
+				<add order="0x40" stat="mCritRate" val="2" />
+				<add order="0x40" stat="runSpd" val="10" />
+				<add order="0x40" stat="absorbDam" val="5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22161" levels="1" name="Invincible Vesper">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys2.icon.br_noblesse_oblige_of_vesper_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect applyOnCaster="true" abnormal="vesper3" count="1" name="Buff" stackOrder="1" stackType="VesperHerb" time="600" val="0">
+				<mul order="0x30" stat="pAtkSpd" val="1.2" />
+				<mul order="0x30" stat="mAtkSpd" val="1.2" />
+				<add order="0x40" stat="runSpd" val="20" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22162" levels="1" name="Mt. Fuji Herb">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys2.icon.br_fuji_herb_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Vitality" stackType="vitalityRegen" stackOrder="1" time="600" val="0" />
+		</for>
+	</skill>
+	<skill id="22163" levels="1" name="Hawk Herb">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys2.icon.br_hawk_herb_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" time="600" val="0">
+				<mul order="0x30" stat="pAtkSpd" val="1.15" />
+				<mul order="0x30" stat="rCrit" val="1.10" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22164" levels="1" name="Eggplant Herb">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="BranchSys2.icon.br_eggplant_herb_i00" />
+		<set name="reuseDelay" val="2000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="100" />
+		<set name="hitCancelTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="altUse" val="true" />
+		<set name="isHideUseMessage" val="true" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" time="600" val="0">
+				<mul order="0x30" stat="mAtkSpd" val="1.10" />
+				<add order="0x40" stat="mCritRate" val="2" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22165" levels="1" name="Energy Replenish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0788" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="ENERGY_REPLENISH" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="20954" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="addEnergy" val="5000" />
+	</skill>
+	<skill id="22166" levels="1" name="Energy Replenish">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0788" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="ENERGY_REPLENISH" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="20955" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="addEnergy" val="10000" />
+	</skill>
+	<skill id="22167" levels="1" name="April Fools' Day Vesper Weapon Gift">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="22168" levels="1" name="Thirst Quencher">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="22169" levels="1" name="Soccer Ball of Cheers Release">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="22170" levels="1" name="Hardin's Protection">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="21030" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<effect count="1" name="Buff" time="10" val="0">
+				<add order="0x30" stat="pDef" val="10000" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22171" levels="1" name="Hardin's Blessing">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="21031" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<effect count="1" name="Buff" time="10" val="0">
+				<add order="0x30" stat="mDef" val="10000" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22172" levels="1" name="Sylphide's Wings">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="21032" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<effect count="1" name="Buff" time="15" val="0">
+				<add order="0x50" stat="runSpd" val="300" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22173" levels="1" name="Sylphide's Blessing">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="itemConsumeId" val="21033" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="target" val="TARGET_PARTY" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<for>
+			<effect count="1" name="Buff" time="15" val="0">
+				<add order="0x50" stat="runSpd" val="300" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22174" levels="1" name="Yibein's Recovery Scroll">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="reuseDelay" val="1800000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="22175" levels="1" name="Rune of Life"> <!-- TODO Доделать тригеризацию -->
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<cond msgId="113" addName="1">
+			<player percentHP="30" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" time="-1" val="0">
+				<triggers>
+					<trigger id="23214" level="1" type="ADD" chance="100" />
+				</triggers>
+			</effect>
+		</for>
+	</skill>
+	<skill id="22176" levels="1" name="Rune of Spirit"> <!-- TODO Доделать тригеризацию -->
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<cond msgId="113" addName="1">
+			<player percentMP="10" />
+		</cond>
+		<for>
+			<effect count="1" name="Buff" time="-1" val="0">
+				<triggers>
+					<trigger id="23215" level="1" type="ADD" chance="100" />
+				</triggers>
+			</effect>
+		</for>
+	</skill>
+	<skill id="22177" levels="1" name="Warrior's Breath">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="22178" levels="1" name="Hero's Potion">
+		<set name="icon" val="icon.skill0001" />
+		<set name="reuseDelay" val="60000" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" /> 
+		<set name="itemConsumeId" val="21038" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="altUse" val="true" />
+		<for>
+			<effect count="1" name="Heal" time="0" val="500" />
+			<effect count="1" name="ManaHeal" time="0" val="200" />
+		</for>
+	</skill>
+	<skill id="22179" levels="1" name="Fortuna of Chaos">
+		<!-- Работает через хендлер -->
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0001" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="22180" levels="1" name="Wondrous Cubic - 1 time use" >
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22181" levels="1" name="Refined Cubic - 1 time use" >
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22182" levels="1" name="Joyous Vitality Potion" >
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="reuseDelay" val="43200000" />
+		<set name="hitTime" val="3000" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="trait" val="ETC" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Vitality" stackType="vitalityRegen" stackOrder="1" time="43200" val="0" />
+		</for>
+	</skill>
+	<skill id="22183" levels="1" name="Dragon Master Lee Transformation Scroll" >
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="reuseDelay" val="3600000" />
+		<set name="hitTime" val="2500" />
+		<set name="mpConsume2" val="44" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="addSkills" val="619;1;5491;1" />
+		<set name="npcId" val="134" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="10" />
+		</for>
+	</skill>
+	<skill id="22184" levels="1" name="Dragon Master Karin Transformation Scroll" >
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22185" levels="1" name="Shiny Lighting" >
+		<set name="icon" val="BranchSys.icon.br_firecracker_red_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22186" levels="1" name="Echo Crystal - Theme of Celebration" >
+		<set name="icon" val="icon.item_normal16" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22187" levels="1" name="Honeymoon Ticket - Joy of Vitality" >
+		<set name="icon" val="BranchSys2.Icon.br_weddin_ticket_i00" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22188" levels="1" name="Summon Big Wedding Cake" >
+		<!--@autor Gremory 25.06.2015 -->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="SUMMON" />
+		<set name="summonType" val="NPC" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="altUse" val="true" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21156" />
+		<set name="itemConsumeCount" val="1" />
+		<set name="lifeTime" val="1200" />
+		<set name="npcId" val="137" />
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+	<skill id="22189" levels="1" name="Flower Shower" >
+		<set name="icon" val="icon.item_normal16" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+	</skill>
+	<skill id="22190" levels="1" name="Transformation Scroll - Treasure Hunter" >
+		<set name="icon" val="icon.skilltransform3" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+	</skill>
+	<skill id="22191" levels="1" name="Transformation Scroll - Onyx Beast">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="584;1;585;1;619;1;5491;1" />
+		<set name="npcId" val="13077" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21172" />
+		<set name="itemConsumeCount" val="1" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="1">
+				<set order="0x40" stat="STR" val="40" />
+				<set order="0x40" stat="DEX" val="30" />
+				<set order="0x40" stat="CON" val="43" />
+				<set order="0x40" stat="INT" val="21" />
+				<set order="0x40" stat="WIT" val="11" />
+				<set order="0x40" stat="MEN" val="25" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22192" levels="1" name="Transformation Scroll - Death Blader">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="586;1;587;1;589;1;588;1;619;1;5491;1" />
+		<set name="npcId" val="13078" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21173" />
+		<set name="itemConsumeCount" val="1" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="2">
+				<set order="0x40" stat="STR" val="40" />
+				<set order="0x40" stat="DEX" val="30" />
+				<set order="0x40" stat="CON" val="43" />
+				<set order="0x40" stat="INT" val="21" />
+				<set order="0x40" stat="WIT" val="11" />
+				<set order="0x40" stat="MEN" val="25" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22193" levels="1" name="Transformation Scroll - Grail Apostle">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="560;3;559;3;561;3;562;3;619;1;5491;1" />
+		<set name="npcId" val="13079" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21174" />
+		<set name="itemConsumeCount" val="1" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="201">
+				<set order="0x40" stat="STR" val="40" />
+				<set order="0x40" stat="DEX" val="30" />
+				<set order="0x40" stat="CON" val="43" />
+				<set order="0x40" stat="INT" val="21" />
+				<set order="0x40" stat="WIT" val="11" />
+				<set order="0x40" stat="MEN" val="25" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22194" levels="1" name="Transformation Scroll - Unicorn">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="563;3;565;3;564;3;567;3;619;1;5491;1" />
+		<set name="npcId" val="13081" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21175" />
+		<set name="itemConsumeCount" val="1" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="204">
+				<set order="0x40" stat="STR" val="36" />
+				<set order="0x40" stat="DEX" val="35" />
+				<set order="0x40" stat="CON" val="36" />
+				<set order="0x40" stat="INT" val="23" />
+				<set order="0x40" stat="WIT" val="14" />
+				<set order="0x40" stat="MEN" val="26" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22195" levels="1" name="Transformation Scroll - Lilim Knight">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="568;3;569;3;570;3;571;3;619;1;5491;1" />
+		<set name="npcId" val="13082" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21176" />
+		<set name="itemConsumeCount" val="1" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="207">
+				<set order="0x40" stat="STR" val="41" />
+				<set order="0x40" stat="DEX" val="34" />
+				<set order="0x40" stat="CON" val="32" />
+				<set order="0x40" stat="INT" val="25" />
+				<set order="0x40" stat="WIT" val="12" />
+				<set order="0x40" stat="MEN" val="26" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22196" levels="1" name="Transformation Scroll - Golem Guardian">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="572;3;573;3;574;3;575;3;619;1;5491;1" />
+		<set name="npcId" val="13083" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21177" />
+		<set name="itemConsumeCount" val="1" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="210">
+				<set order="0x40" stat="STR" val="39" />
+				<set order="0x40" stat="DEX" val="29" />
+				<set order="0x40" stat="CON" val="45" />
+				<set order="0x40" stat="INT" val="20" />
+				<set order="0x40" stat="WIT" val="10" />
+				<set order="0x40" stat="MEN" val="27" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22197" levels="1" name="Transformation Scroll - Inferno Drake">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="576;3;577;3;578;3;579;3;619;1;5491;1" />
+		<set name="npcId" val="13084" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21178" />
+		<set name="itemConsumeCount" val="1" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="213">
+				<set order="0x40" stat="STR" val="40" />
+				<set order="0x40" stat="DEX" val="26" />
+				<set order="0x40" stat="CON" val="47" />
+				<set order="0x40" stat="INT" val="18" />
+				<set order="0x40" stat="WIT" val="12" />
+				<set order="0x40" stat="MEN" val="27" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22198" levels="1" name="Transformation Scroll - Dragon Bomber">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="580;3;581;3;582;3;583;3;619;1;5491;1" />
+		<set name="npcId" val="13085" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21179" />
+		<set name="itemConsumeCount" val="1" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="216">
+				<set order="0x40" stat="STR" val="41" />
+				<set order="0x40" stat="DEX" val="33" />
+				<set order="0x40" stat="CON" val="31" />
+				<set order="0x40" stat="INT" val="29" />
+				<set order="0x40" stat="WIT" val="11" />
+				<set order="0x40" stat="MEN" val="25" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="22199" levels="1" name="Transformation Scroll - Heretic">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skilltransform1" />
+		<set name="hitTime" val="500" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="TRANSFORMATION" />
+		<set name="addSkills" val="738;3;741;3;739;3;740;3;619;1;5491;1" />
+		<set name="npcId" val="13106" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isHandler" val="true" />
+		<set name="itemConsumeId" val="21180" />
+		<set name="itemConsumeCount" val="1" />
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<for>
+			<effect count="1" name="Transformation" time="1800" val="3">
+				<set order="0x40" stat="STR" val="22" />
+				<set order="0x40" stat="DEX" val="21" />
+				<set order="0x40" stat="CON" val="27" />
+				<set order="0x40" stat="INT" val="41" />
+				<set order="0x40" stat="WIT" val="20" />
+				<set order="0x40" stat="MEN" val="39" />
+			</effect>
+		</for>
+	</skill>
+</list>

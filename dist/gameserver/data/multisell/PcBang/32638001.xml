@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<config showall="true" notax="false" ignoreprice="true" keepenchanted="false" />
+	<item>
+		<ingredient id="-100" count="600"/>
+		<production id="6406" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="1200"/>
+		<production id="6407" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="96000"/>
+		<production id="6843" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="96000"/>
+		<production id="6846" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="144000"/>
+		<production id="8557" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="144000"/>
+		<production id="8910" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9184" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9185" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9187" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9188" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9190" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9191" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9192" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9194" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9195" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9197" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9198" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9199" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9201" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9202" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="12000"/>
+		<production id="9204" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="192000"/>
+		<production id="12779" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="192000"/>
+		<production id="12780" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="3500"/>
+		<production id="20394" count="1"/>
+	</item>
+	<item>
+		<ingredient id="-100" count="3000"/>
+		<production id="20393" count="1"/>
+	</item>
+</list>

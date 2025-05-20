@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- Если level="0" то берется максимальный уровень данного скила -->
+	<!-- If level="0" it takes a maximum level of skill -->
+ <!-- LISTA COMPLETA DE BUFFS:
+ <buff id="264" level="0"/> (Song of Earth = 25% P.def)
+ <buff id="265" level="0"/> (Song of Life = 20% Hp Regeneration)
+ <buff id="266" level="0"/> (Song of Water = +3 Evasion)
+ <buff id="267" level="0"/> (Song of Warding = +30% M.def)
+ <buff id="268" level="0"/> (Song of Wind = +20 Speed)
+ <buff id="269" level="0"/> (Song of Hunter = +100% Critical Rate)
+ <buff id="270" level="0"/> (Song of Invocation = +20 Resist Dark)
+ <buff id="271" level="0"/> (Dance of Ther Warrior = +12% P.Atck)
+ <buff id="272" level="0"/> (Dance of Inspiration = +4 Accuracy)
+ <buff id="273" level="0"/> (Dance of the Mystic = +20% M.Attack)
+ <buff id="274" level="0"/> (Dance of Fire = +35% Critical Damage)
+ <buff id="275" level="0"/> (Dance of Fury = +15% Attack Speed)
+ <buff id="276" level="0"/> (Dance of Concentration = +40 Magic Cancel Damage, +30% Cast Speed)
+ <buff id="277" level="0"/> (Dance of Light = +20 Holy P.Attack)
+ <buff id="304" level="0"/> (Song of Vitality = +30% HP)
+ <buff id="305" level="0"/> (Song of Vengeance = Reflect 20% Melee Damage)
+ <buff id="306" level="0"/> (Song of Flame Guard = +30 Resist Fire)
+ <buff id="307" level="0"/> (Dance of Aqua Guard = +30 Resist Aqua)
+ <buff id="308" level="0"/> (Song of Storm Guard = +30 Resist Wind)
+ <buff id="309" level="0"/> (Dance of Earth Guard = +30 Resist Earth)
+ <buff id="310" level="0"/> (Dance of The Vampire = 8% Damage recovery HP)
+ <buff id="311" level="0"/> (Dance of Protection = -30 Damage Received)
+ <buff id="349" level="0"/> (Song of Renewal = -5% Physical/Magic MP Consumption & -20% Delay Skills)
+ <buff id="363" level="0"/> (Song of Meditation = +20% MP Recovery, -10% Magic Skill Comsumption)
+ <buff id="364" level="0"/> (Song of Champion = -20% MP Comsumption, -10% Reuse Time for Physical/Sings/Dances Skills)
+ <buff id="365" level="0"/> (Siren's Dance = +100% Magic Damage)
+ <buff id="366" level="0"/> (Dance of Shadows = -50% Speed and Monsters Dont Attack)
+ <buff id="529" level="0"/> (Song of Elemental = +30 Resist Fire, Water, Wind and Earth Attacks)
+ <buff id="530" level="0"/> (Dance of Aligment = +30 Resist dark Attack)
+ <buff id="764" level="0"/> (Song of Wind Storm = +10 Resist Bow and +5 Resist Crossbow)
+ <buff id="765" level="0"/> (Dance of Blade Storm = +45 Resist Bow and +25 Resist Crossbow and -99% M.Attack)
+ <buff id="913" level="0"/> (Deflect Magic = +100% Resist Magic Attacks)
+ <buff id="914" level="0"/> (Song of Purification = +30% Debuff Resist & 30% HP Recovery)
+ <buff id="915" level="0"/> (Dance of Berserker = Decrease P.Def. M.Def, Evasion and Increase P.Attack, M.Attack, Cast Speed, Attack Speed and Speed)
+ <buff id="988" level="0"/> (Battle Whisper = +15% P.atk + 10% Critical Damage + 10% Attack Speed)
+ <buff id="989" level="0"/> (Defense Motion = ++25% P.Def, +3 Evasion, +10% M.Def)
+ <buff id="1002" level="0"/> (Flame Chant = +30% Casting Speed)
+ <buff id="1006" level="0"/> (Chant of Fire = +30% M.Def)
+ <buff id="1007" level="0"/> (Chant of Battle = +15% P.Attack)
+ <buff id="1009" level="0"/> (Chant of Shielding = +15% P.Def)
+ <buff id="1010" level="0"/> (Soul Shield = +15% P.Def)
+ <buff id="1032" level="0"/> (Invigor = +50% Resist Bleeding)
+ <buff id="1033" level="0"/> (Resist Poison = +50% Resist Poison)
+ <buff id="1035" level="0"/> (Mental Shield = +50 Resist Hold, Sleed 7 Mental Attacks)
+ <buff id="1036" level="0"/> (Magic Barrier = +30% M.Def)
+ <buff id="1040" level="0"/> (Shield = +15% P.Def)
+ <buff id="1043" level="0"/> (Holy Weapon = +20 Holy P.Atck)
+ <buff id="1044" level="0"/> (Regeneration = +20% HP Regeneration)
+ <buff id="1045" level="0"/> (Blessed Body = +35% HP)
+ <buff id="1048" level="0"/> (Blessed Soul = +35% MP)
+ <buff id="1059" level="0"/> (Empower = +75% M.Attack)
+ <buff id="1062" level="0"/> (Berserker Spirit = -8% P.Def, -16% M.Def, -4 Evasion and +8% P.Attack, +16% M.Attack, +8% Attack Speed/Cast Speed and +8 Speed)
+ <buff id="1068" level="0"/> (Might = +15% P.Atck)
+ <buff id="1073" level="0"/> (Kiss of Eva = +600% Lung Capacity)
+ <buff id="1077" level="0"/> (Focus = +30% Critical Rate)
+ <buff id="1078" level="0"/> (Concentration = -53 Magic Cancel Damage)
+ <buff id="1085" level="0"/> (Acumen = +30% Cast Speed)
+ <buff id="1086" level="0"/> (Haste = +33% Attack Speed)
+ <buff id="1087" level="0"/> (Agility = +4 Evasion)
+ <buff id="1182" level="0"/> (Resist Aqua = +20 Resist Aqua)
+ <buff id="1189" level="0"/> (Resist Wind = +20 Resist Wind)
+ <buff id="1191" level="0"/> (Resist Fire = +20 Resis Fire)
+ <buff id="1204" level="0"/> (Wind Walk = +33 Speed)
+ <buff id="1240" level="0"/> (Guidance = +4 Accuracy)
+ <buff id="1242" level="0"/> (Death Whisper = +35% Critical Damage)
+ <buff id="1243" level="0"/> (Bless Shield = +30% Shield Defense)
+ <buff id="1251" level="0"/> (Chant of Fury = +33% Attack Speed)
+ <buff id="1252" level="0"/> (Chant of Evasion = +4 Evasion)
+ <buff id="1253" level="0"/> (Chant of Rage = +35% Critical Damage)
+ <buff id="1257" level="0"/> (Decrease Weight = + 9.000 Weight Limit)
+ <buff id="1259" level="0"/> (Resist Shock = +40% Resist Stun Attacks)
+ <buff id="1268" level="0"/> (Vampiric Rage = Transfer 9% Damage in HP)
+ <buff id="1284" level="0"/> (Chant of Revenge = Transfer 20% Damage Back to Enemy)
+ <buff id="1303" level="0"/> (Wild Magic = +2 Magical Critical Chance)
+ <buff id="1304" level="0"/> (Advanced Block = +50% Shield Defense)
+ <buff id="1307" level="0"/> (Prayer = +8% HP Recovery)
+ <buff id="1308" level="0"/> (Chant of Predator = +20% Critical rate)
+ <buff id="1309" level="0"/> (Chant of Eagle = +4 Accuracy)
+ <buff id="1310" level="0"/> (Chant of Vampire = Transfer 9% Melee damage to HP)
+ <buff id="1352" level="0"/> (Elemental Protection = Increase Resist Fire, Wind, Water and Earth)
+ <buff id="1353" level="0"/> (Divine Protection = +30 Resist Dark)
+ <buff id="1354" level="0"/> (Arcane Protection = +30 Resist Cancel and +20 Resist Debuffs)
+ <buff id="1355" level="0"/> (Profecy of Water = +2 Critical Magic, +10% P.Atck/Resist Debufs, +20%  M.Attack/Attack Speed/P.Def/MP Recovery/Cast Speed, - 20% Speed and -5% MP Skill Consumption)
+ <buff id="1356" level="0"/> (Prophecy of Fire = +20% MP/HP Recovery/Critical Damage/P.Def/M.Def/M.Attack/Cast Speed, +10% P.Attack, Resist De-Buffs, + 2 Magic Damage and Decrease -20% Speed)
+ <buff id="1357" level="0"/> (Prophecy of Wind = +20% HP/Critical Rate/Magic Damage/P.Def/Casting Speed, +10% P.Attack/Resist Debuff, Recovery 5% Damage in HP and -20% Speed)
+ <buff id="1362" level="0"/> (Chant of SPirit = +30 Resist Cancel)
+ <buff id="1363" level="0"/> (Chant of Victory = Recovery 20% Hp, Increase +20% HP/Critical Damage/P.Def/Attack Speed/M.Attack/M.Def/Casting Speed, +10% P.Attack/Resist Debuffs, +2 Magic Critical damage, +4 Accuracy and Decrease -20% Speed)
+ <buff id="1388" level="0"/> (Greater Might = +10% P.Attack)
+ <buff id="1389" level="0"/> (Greater Shield = +15% P.Def)
+ <buff id="1390" level="0"/> (War Chant = +10% P.Atck)
+ <buff id="1391" level="0"/> (Earth Chant = +15% P.Def)
+ <buff id="1392" level="0"/> (Holy Resistence = +30 Resist Holy)
+ <buff id="1393" level="0"/> (Unholy Resistence = +30 Resist Dark)
+ <buff id="1397" level="0"/> (Clarity = -20% Physical Skill Consumption, -10% Magical Skill Consumption, -20% Dance/Song Consumption)
+ <buff id="1413" level="0"/> (Magnu's Chant = Increase +15% MP, +1.5 MP recovery when you using Light Armor, +4 MP Recovery when you Using Robe, +30% M.Def/M.Attack, +20% Casting Speed, +10 Resistence Fire/Water/Wind/Earth and +25 Resist Debuffs and +40 Resist Cancel )
+ <buff id="1460" level="0"/> (Mana Gain = Increase Rechange Power)
+ <buff id="1461" level="0"/> (Chant of Protection = Decrease 30% Critical damage Received)
+ <buff id="1499" level="0"/> (Improved Combat = +15% P.Attack and P.Def)
+ <buff id="1500" level="0"/> (Improved Magic = +75% M.Attack and 30% M.Def)
+ <buff id="1501" level="0"/> (Improved Condition = +35% HP and MP)
+ <buff id="1502" level="0"/> (Improved Critical Attack = )
+ <buff id="1503" level="0"/> (Improved Shield Defense = +80% Shield Defense, )
+ <buff id="1504" level="0"/> (Improved Moviment = +33 Speed , +4 Evasion)
+ <buff id="1517" level="0"/> (Chant of Combat = +15% P.Attack and P.Def)
+ <buff id="1518" level="0"/> (Chant of Critical Attack = +30% Critical Rate and +35% Critical Damage)
+ <buff id="1519" level="0"/> (Chant of Blood Awakening = +33% Attack Speed and 9% meleee damage recovery HP)
+ <buff id="1535" level="0"/> (Chant of Movement = +33 Speed and +4 Evasion)
+ <buff id="1542" level="0"/> (Counter Critical = +30% Resist Critical Attack and +8 for Melee Attacks)
+ <buff id="1549" level="0"/> (Chant of Elements = All Elements +20)
+ <buff id="1500" level="0"/> (Resist Earth = +20 Resist Earth)
+ <buff id="1562" level="0"/> (Chant of Berserker = +8% P.Attack/Attack SPeed/Casting Speed, +16% M.Attack And Decrease P.Def -8%, M.Def -16% and -4 Evasion)
+ <buff id="4699" level="0"/> (Blessing of Queen = Increase Critical Damage rate)
+ <buff id="4700" level="0"/> (Gift of Queen = Increase P.Attack)
+ <buff id="4702" level="0"/> (Blessing of Seraphim = Increase MP recovery)
+ <buff id="4703" level="0"/> (Gift of Seraphim = Increase Magic Skill recovery)
+		-->
+	<scheme id="1" name="Warrior Buffs" priceId="57" count="10000">
+		<buff id="264" level="0"/> <!-- (Song of Earth = 25% P.def) -->
+		<buff id="268" level="0"/> <!-- (Song of Wind = +20 Speed) -->
+		<buff id="304" level="0"/> <!-- (Song of Vitality = +30% HP) -->
+		<buff id="271" level="0"/> <!-- (Dance of Ther Warrior = +12% P.Atck) -->
+		<buff id="275" level="0"/> <!-- (Dance of Fury = +15% Attack Speed) -->
+		<buff id="1007" level="0"/> <!-- (Chant of Battle = +15% P.Attack) -->
+		<buff id="1086" level="0"/> <!-- (Haste = +33% Attack Speed) -->
+		<buff id="1204" level="0"/> <!-- (Wind Walk = +33 Speed) -->
+		<buff id="1257" level="0"/> <!-- (Decrease Weight = + 9.000 Weight Limit) -->
+		<buff id="1062" level="0"/> <!-- (Berserker Spirit = -8% P.Def, -16% M.Def, -4 Evasion and +8% P.Attack, +16% M.Attack, +8% Attack Speed/Cast Speed and +8 Speed) -->
+		<buff id="1388" level="0"/> <!-- (Greater Might = +10% P.Attack) -->
+		<buff id="1045" level="0"/> <!-- (Blessed Body = +35% HP) -->
+		<buff id="1048" level="0"/> <!-- (Blessed Soul = +35% MP) -->
+		<buff id="1460" level="0"/> <!-- (Mana Gain = Increase Rechange Power) -->
+		<buff id="1040" level="0"/> <!-- (Shield = +15% P.Def) -->
+		 
+	</scheme>
+	<scheme id="2" name="Mages Buffs" priceId="57" count="10000">
+		<buff id="264" level="0"/> <!-- (Song of Earth = 25% P.def) -->
+		<buff id="268" level="0"/> <!-- (Song of Wind = +20 Speed) -->
+		<buff id="304" level="0"/> <!-- (Song of Vitality = +30% HP) -->
+		<buff id="273" level="0"/> <!-- (Dance of the Mystic = +20% M.Attack) -->
+		<buff id="276" level="0"/> <!-- (Dance of Concentration = +40 Magic Cancel Damage, +30% Cast Speed) -->
+		<buff id="1059" level="0"/> <!-- (Empower = +75% M.Attack) -->
+		<buff id="1085" level="0"/> <!-- (Acumen = +30% Cast Speed) -->
+		<buff id="1204" level="0"/> <!-- (Wind Walk = +33 Speed) -->
+		<buff id="1257" level="0"/> <!-- (Decrease Weight = + 9.000 Weight Limit) -->
+		<buff id="1062" level="0"/> <!-- (Berserker Spirit = -8% P.Def, -16% M.Def, -4 Evasion and +8% P.Attack, +16% M.Attack, +8% Attack Speed/Cast Speed and +8 Speed) -->
+		<buff id="1389" level="0"/> <!-- (Greater Shield = +15% P.Def) -->
+		<buff id="1045" level="0"/> <!-- (Blessed Body = +35% HP) -->
+		<buff id="1048" level="0"/> <!-- (Blessed Soul = +35% MP) -->
+		<buff id="1460" level="0"/> <!-- (Mana Gain = Increase Rechange Power) -->
+		<buff id="1040" level="0"/> <!-- (Shield = +15% P.Def) -->
+	</scheme>
+</list>

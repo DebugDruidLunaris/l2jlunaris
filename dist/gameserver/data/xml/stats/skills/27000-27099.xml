@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="27000" levels="1" name="Black Gem Mask 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27001" levels="1" name="Red Mask of Victory 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27002" levels="1" name="Black Gem Mask Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27003" levels="1" name="Red Mask of Victory" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27004" levels="1" name="Artisan's Goggles 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27005" levels="1" name="Artisan's Goggles Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27006" levels="1" name="Napoleon Hat 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27007" levels="1" name="Dandy's Chapeau 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27008" levels="1" name="Napoleon Hat Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27009" levels="1" name="Dandy's Chapeau Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27010" levels="1" name="Red Horn of Victory 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27011" levels="1" name="Red Horn of Victory Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27012" levels="1" name="Rune of Experience Points 30% 1 hours pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27013" levels="1" name="Rune of Experience Points 30% - 3-Hour Pack (Event)" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27014" levels="1" name="Rune of Experience Points 30%- 5-Hour Pack (Event)" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27015" levels="1" name="Rune of Experience Points 50% 5 hours pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27016" levels="1" name="Rune of Experience Points 30% 10 hours pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27017" levels="1" name="Rune of Experience Points 50% 10 hours pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27018" levels="1" name="Rune of Experience Points 30% 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27019" levels="1" name="Rune of Experience Points 50% 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27020" levels="1" name="Rune of SP 30% 1-Hour Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27021" levels="1" name="Rune of SP 30% 5-Hour Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27022" levels="1" name="Rune of SP 50% 5-Hour Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27023" levels="1" name="Rune of SP 30% 10-Hour Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27024" levels="1" name="Rune of SP 50% 10-Hour Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27025" levels="1" name="Rune of SP 30% 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27026" levels="1" name="Rune of SP 50% 7-Day Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27027" levels="1" name="Extra Entrance Pass - Kamaloka (Hall of the Abyss) 1-Sheet Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27028" levels="1" name="Extra Entrance Pass - Kamaloka (Labyrinth of the Abyss) 1-Sheet Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27029" levels="1" name="Extra Entrance Pass - Rim Kamaloka 1 Sheet Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+	<skill id="27030" levels="1" name="My Teleport Scroll 30-Sheet Pack" >
+		<!--
+			[RU] Не используется, работает через капсулу.
+			[EN] Not used, working through of the capsule.
+		-->
+		<set name="icon" val="icon.skill0000" />
+		<set name="target" val="TARGET_NONE" />
+		<set name="skillType" val="NOTDONE" />
+		<set name="operateType" val="OP_PASSIVE" />
+	</skill>
+</list>

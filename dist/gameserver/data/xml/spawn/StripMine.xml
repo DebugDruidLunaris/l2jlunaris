@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<!-- Region: Strip Mine. Territory: Dwarven Village -->
+
+	<!-- Strip Mine Npc's -->
+
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="108593" y="-174041" z="-406" h="38500"/>
+		<npc id="30528"/>
+		<!--Laferon-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="108567" y="-173994" z="-406" h="38000"/>
+		<npc id="30530"/>
+		<!--Newbie Helper-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="107760" y="-174592" z="-400" h="0"/>
+		<npc id="31035"/>
+		<!--Defender-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="108036" y="-172532" zmin="-552" zmax="-552"/>
+			<add x="109510" y="-172532" zmin="-552" zmax="-552"/>
+			<add x="109510" y="-174060" zmin="-552" zmax="-552"/>
+			<add x="108036" y="-174060" zmin="-552" zmax="-552"/>
+		</territory>
+		<npc id="31035"/>
+		<!--Defender-->
+	</spawn>
+
+	<!-- Strip Mine Monster's -->
+
+	<spawn count="15" respawn="15" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="107540" y="-173300" zmin="-604" zmax="-304"/>
+			<add x="108756" y="-175200" zmin="-604" zmax="-304"/>
+			<add x="109716" y="-174268" zmin="-604" zmax="-304"/>
+			<add x="108768" y="-172744" zmin="-604" zmax="-304"/>
+		</territory>
+		<npc id="18342"/>
+		<!--Gremlin-->
+	</spawn>
+	<spawn count="5" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="108036" y="-172532" zmin="-552" zmax="-552"/>
+			<add x="109510" y="-172532" zmin="-552" zmax="-552"/>
+			<add x="109510" y="-174060" zmin="-552" zmax="-552"/>
+			<add x="108036" y="-174060" zmin="-552" zmax="-552"/>
+		</territory>
+		<npc id="18342"/>
+		<!--Gremlin-->
+	</spawn>
+</list>

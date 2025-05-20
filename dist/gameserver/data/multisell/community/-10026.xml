@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--
+Питомцы
+-->
+
+<list>
+
+	<item id="1">
+		<ingredient id="4357" count="5" />
+		<production id="10308" count="1"/>
+	</item>
+	<item id="2">
+		<ingredient id="4357" count="5" />
+		<production id="10309" count="1"/>
+	</item>
+	<item id="3">
+		<ingredient id="4357" count="5" />
+		<production id="10310" count="1"/>
+	</item>
+	<item id="4">
+		<ingredient id="4357" count="5" />
+		<production id="4422" count="1"/>
+	</item>
+	<item id="5">
+		<ingredient id="4357" count="5" />
+		<production id="4423" count="1"/>
+	</item>
+	<item id="6">
+		<ingredient id="4357" count="5" />
+		<production id="4424" count="1"/>
+	</item>
+	<item id="7">
+		<ingredient id="4357" count="5" />
+		<production id="9882" count="1"/>
+	</item>
+	<item id="8">
+		<ingredient id="4357" count="5" />
+		<production id="10307" count="1"/>
+	</item>
+	<item id="9">
+		<ingredient id="4357" count="5" />
+		<production id="6648" count="1"/>
+	</item>
+	<item id="10">
+		<ingredient id="4357" count="5" />
+		<production id="10311" count="1"/>
+	</item>
+</list>

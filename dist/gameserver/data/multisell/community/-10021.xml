@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--
+Серома
+-->
+
+<list>
+
+	<item id="1">
+		<ingredient id="4356" count="50"/>
+		<production id="14678" count="1"/>
+	</item>
+	<item id="2">
+		<ingredient id="4356" count="70"/>
+		<production id="14679" count="1"/>
+	</item>
+	<item id="3">
+		<ingredient id="4356" count="120"/>
+		<production id="14680" count="1"/>
+	</item>
+	<item id="4">
+		<ingredient id="4356" count="160"/>
+		<production id="14681" count="1"/>
+	</item>
+	<item id="5">
+		<ingredient id="4356" count="250"/>
+		<production id="21579" count="1"/>
+	</item>
+</list>

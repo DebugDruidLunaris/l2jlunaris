@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "enchant_items.dtd">
+<list>
+	<!--Стандартные настройки для енчанта, -1 в макс , означает нелимитирова-->
+	<default chance="66" magic_chance="66" max_enchant="20" visual_effect="false" />
+	<!--Master Yogi's Scroll: Enchant Weapon-->
+	<enchant_scroll id="13540" on_fail="CRYSTALS" visual_effect="true">
+		<item_list>
+			<item id="13539" />  <!--Staff of Master Yogi-->
+		</item_list>
+	</enchant_scroll>
+	<!-- Olf -->
+	<!-- Olf's T-shirt Enchant Scroll -->
+	<enchant_scroll id="21581" on_fail="CRYSTALS" max_enchant="10">
+		<item_list>
+			<item id="21580" /> <!-- Olf's T-shirt -->
+		</item_list>
+	</enchant_scroll>
+	<!-- Blessed Olf's T-shirt Enchant Scroll -->
+	<enchant_scroll id="21582" on_fail="DROP_ENCHANT" max_enchant="10">
+		<item_list>
+			<item id="21580" /> <!-- Olf's T-shirt -->
+		</item_list>
+	</enchant_scroll>
+		<!-- Olf's T-shirt Enchant Scroll -->
+	<enchant_scroll id="21581" on_fail="CRYSTALS" max_enchant="10">
+		<item_list>
+			<item id="21706" /> <!-- Olf's T-shirt -->
+		</item_list>
+	</enchant_scroll>
+	<!-- Blessed Olf's T-shirt Enchant Scroll -->
+	<enchant_scroll id="21582" on_fail="DROP_ENCHANT" max_enchant="10">
+		<item_list>
+			<item id="21706" /> <!-- Olf's T-shirt -->
+		</item_list>
+	</enchant_scroll>
+		<!--Item-Mall Enchant Scrolls-->
+	<!--Scroll: Enchant Weapon (D-Grade)-->
+	<enchant_scroll id="22006" on_fail="CRYSTALS" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (D-Grade)-->
+	<enchant_scroll id="22010" on_fail="CRYSTALS" chance="76"/>
+
+	<!--Scroll: Enchant Weapon (C-Grade)-->
+	<enchant_scroll id="22007" on_fail="CRYSTALS" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (C-Grade)-->
+	<enchant_scroll id="22011" on_fail="CRYSTALS" chance="76"/>
+
+	<!--Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22008" on_fail="CRYSTALS" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22012" on_fail="CRYSTALS" chance="76"/>
+
+	<!--Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22009" on_fail="CRYSTALS" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22013" on_fail="CRYSTALS" chance="76"/>
+
+	<!--Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20517" on_fail="CRYSTALS" chance="76" magic_chance="54"/>
+
+	<!--Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20518" on_fail="CRYSTALS" chance="76"/>
+		<!--Ancient Enchant Scrolls-->
+	<!--Ancient Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22014" on_fail="NOTHING" chance="50" magic_chance="54" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22016" on_fail="NOTHING" chance="50" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22015" on_fail="NOTHING" chance="50" magic_chance="54" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22017" on_fail="NOTHING" chance="50" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20519" on_fail="NOTHING" chance="50" magic_chance="54" max_enchant="16"/>
+
+	<!--Ancient Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20520" on_fail="NOTHING" chance="50" max_enchant="16"/>
+
+	<!--Divine Enchant Scrolls-->
+	<!--Divine Scroll: Enchant Weapon (B-Grade)-->
+	<enchant_scroll id="22018" on_fail="NOTHING" chance="100" magic_chance="100"/>
+
+	<!--Divine Scroll: Enchant Armor (B-Grade)-->
+	<enchant_scroll id="22020" on_fail="NOTHING" chance="100"/>
+
+	<!--Divine Scroll: Enchant Weapon (A-Grade)-->
+	<enchant_scroll id="22019" on_fail="NOTHING" chance="100" magic_chance="100"/>
+
+	<!--Divine Scroll: Enchant Armor (A-Grade)-->
+	<enchant_scroll id="22021" on_fail="NOTHING" chance="100"/>
+
+	<!--Divine Scroll: Enchant Weapon (S-Grade)-->
+	<enchant_scroll id="20521" on_fail="NOTHING" chance="100" magic_chance="100"/>
+
+	<!--Divine Scroll: Enchant Armor (S-Grade)-->
+	<enchant_scroll id="20522" on_fail="NOTHING" chance="100"/>
+
+ 	<!-- Love scrolls -->
+	<!-- Event - Herdsman's Love Scroll -->
+	<enchant_scroll id="15381" on_fail="CRYSTALS" max_enchant="50">
+		<item_list>
+			<item id="15383" /> <!--Weaver's Multi-colored Clothes 7 day-->
+			<item id="15384" /> <!--Weaver's Multi-colored Clothes 30 day-->
+			<item id="15385" /> <!--Weaver's Multi-colored Clothes 60 day-->
+			<item id="15386" /> <!--Weaver's Multi-colored Clothes 90 day-->
+			<item id="15387" /> <!--Weaver's Multi-colored Clothes Permanent-->
+			<item id="15388" /> <!--Weaver's Multi-colored Clothes (Event) 7 day-->
+			<item id="15389" /> <!--Weaver's Multi-colored Clothes (Event) 30 day-->
+			<item id="15390" /> <!--Weaver's Multi-colored Clothes (Event) 60 day-->
+			<item id="15391" /> <!--Weaver's Multi-colored Clothes (Event) 90 day-->
+			<item id="15392" /> <!--Weaver's Multi-colored Clothes (Event) Permanent-->
+		</item_list>
+	</enchant_scroll>
+	<!-- Event - PC Cafe -->
+	<!-- S-Grade Scrolls -->
+	<enchant_scroll id="15346" on_fail="CRYSTALS" visual_effect="true">
+		<item_list>
+			<item id="15313" /> <!-- For PC Cafe - Forgotten Blade -->
+			<item id="15314" /> <!-- For PC Cafe - Basalt Battlehammer -->
+			<item id="15315" /> <!-- For PC Cafe - Imperial Staff -->
+			<item id="15316" /> <!-- For PC Cafe - Angel Slayer -->
+			<item id="15317" /> <!-- For PC Cafe - Dragon Hunter Axe -->
+			<item id="15318" /> <!-- For PC Cafe - Saint Spear -->
+			<item id="15319" /> <!-- For PC Cafe - Demon Splinter -->
+			<item id="15320" /> <!-- For PC Cafe - Heaven's Divider -->
+			<item id="15321" /> <!-- For PC Cafe - Arcana Macw -->
+			<item id="15322" /> <!-- For PC Cafe - Draconic Bow -->
+			<item id="15323" /> <!-- For PC Cafe - Laevateinn -->
+			<item id="15324" /> <!-- For PC Cafe - Gram -->
+			<item id="15325" /> <!-- For PC Cafe - Sarunga -->
+			<item id="15326" /> <!-- For PC Cafe - Tallum Blade *Dark Legion's Edge -->
+		</item_list>
+	</enchant_scroll>
+	<!-- A-Grade Scrolls -->
+	<enchant_scroll id="15347" on_fail="CRYSTALS" visual_effect="true">
+		<item_list>
+			<item id="13210" /> <!-- For PC Cafe - Sirra's Blade -->
+			<item id="13211" /> <!-- For PC Cafe - Sword of Ipos -->
+			<item id="13212" /> <!-- For PC Cafe - Barakiel's Axe -->
+			<item id="13213" /> <!-- For PC Cafe - Behemoth Tuning Fork -->
+			<item id="13214" /> <!-- For PC Cafe - Naga Storm -->
+			<item id="13215" /> <!-- For PC Cafe - Tiphon's Spear -->
+			<item id="13216" /> <!-- For PC Cafe - Shyeed's Bow -->
+			<item id="13217" /> <!-- For PC Cafe - Sobekk's Hurricane -->
+			<item id="13218" /> <!-- For PC Cafe - Themis' Tongue -->
+			<item id="13219" /> <!-- For PC Cafe - Cabrio's Hand -->
+			<item id="13220" /> <!-- For PC Cafe - Daimon Crystal -->
+			<item id="13221" /> <!-- For PC Cafe - Tallum Blade*Damascus -->
+			<item id="13222" /> <!-- For PC Cafe - Éclair Bijou -->
+			<item id="13223" /> <!-- For PC Cafe - Durendal -->
+			<item id="13224" /> <!-- For PC Cafe - Screaming Vengeance -->
+		</item_list>
+	</enchant_scroll>
+	<!-- B-Grade Scrolls -->
+	<enchant_scroll id="15348" on_fail="CRYSTALS" visual_effect="true">
+		<item_list>
+			<item id="13194" /> <!-- For PC Cafe - Damascus Sword -->
+			<item id="13195" /> <!-- For PC Cafe - Lance -->
+			<item id="13196" /> <!-- For PC Cafe - Deadman's Glory -->
+			<item id="13197" /> <!-- For PC Cafe - Art of Battle Axe -->
+			<item id="13198" /> <!-- For PC Cafe - Staff of Evil Spirits -->
+			<item id="13199" /> <!-- For PC Cafe - Devil's Dagger -->
+			<item id="13200" /> <!-- For PC Cafe - Bellion Cestus -->
+			<item id="13201" /> <!-- For PC Cafe - Hazard Bow -->
+			<item id="13202" /> <!-- For PC Cafe - Samurai*Samurai -->
+			<item id="13203" /> <!-- For PC Cafe - Guardian's Sword -->
+			<item id="13204" /> <!-- For PC Cafe - Wizard's Tear -->
+			<item id="13205" /> <!-- For PC Cafe - Kaim Vanul's Bones -->
+			<item id="13206" /> <!-- For PC Cafe - Star Buster -->
+			<item id="13207" /> <!-- For PC Cafe - Colichemarde -->
+			<item id="13208" /> <!-- For PC Cafe - Dismantler -->
+			<item id="13209" /> <!-- For PC Cafe - Hell Hound -->
+		</item_list>
+	</enchant_scroll>
+	<!-- C-Grade Scrolls -->
+	<enchant_scroll id="15349" on_fail="CRYSTALS" visual_effect="true">
+		<item_list>
+			<item id="13178" /> <!-- For PC Cafe - Samurai Long Sword -->
+			<item id="13179" /> <!-- For PC Cafe - Ghost's Wand -->
+			<item id="13180" /> <!-- For PC Cafe - Ghoul's Wand -->
+			<item id="13181" /> <!-- For PC Cafe - Devil's Wand -->
+			<item id="13182" /> <!-- For PC Cafe - Crystal Dagger -->
+			<item id="13183" /> <!-- For PC Cafe - Great Pata -->
+			<item id="13184" /> <!-- For PC Cafe - Eminence Bow -->
+			<item id="13185" /> <!-- For PC Cafe - Orcish Poleaxe -->
+			<item id="13186" /> <!-- For PC Cafe - Yaksa Mace -->
+			<item id="13187" /> <!-- For PC Cafe - Shamshir*Shamshir -->
+			<item id="13188" /> <!-- For PC Cafe - Admiral's Estoc -->
+			<item id="13189" /> <!-- For PC Cafe - Saber Tooth -->
+			<item id="13190" /> <!-- For PC Cafe - Sharpshooter -->
+			<item id="13191" /> <!-- For PC Cafe - Ecliptic Sword -->
+			<item id="13192" /> <!-- For PC Cafe - Ecliptic Axe -->
+			<item id="13193" /> <!-- For PC Cafe - Dwarven Hammer -->
+			<item id="15403" /> <!-- For PC Cafe - Berserker Blade -->
+		</item_list>
+	</enchant_scroll>
+	<!-- D-Grade Scrolls -->
+	<enchant_scroll id="15350" on_fail="CRYSTALS" visual_effect="true">
+		<item_list>
+			<item id="13163" /> <!-- For PC Cafe - Bastard*Crimson Sword -->
+			<item id="13164" /> <!-- For PC Cafe - Claymore -->
+			<item id="13165" /> <!-- For PC Cafe - Bonebreaker -->
+			<item id="13166" /> <!-- For PC Cafe - Atuba Hammer -->
+			<item id="13167" /> <!-- For PC Cafe - Ghost's Wand -->
+			<item id="13168" /> <!-- For PC Cafe - Hall of Life -->
+			<item id="13169" /> <!-- For PC Cafe - Atuba Mace -->
+			<item id="13170" /> <!-- For PC Cafe - Mithril Dagger -->
+			<item id="13171" /> <!-- For PC Cafe - Scallop Jamadhr -->
+			<item id="13172" /> <!-- For PC Cafe - Crossbow -->
+			<item id="13173" /> <!-- For PC Cafe - Glaive -->
+			<item id="13174" /> <!-- For PC Cafe - Elven Long Sword -->
+			<item id="13175" /> <!-- For PC Cafe - Grand Épée -->
+			<item id="13176" /> <!-- For PC Cafe - General Katzbalger -->
+			<item id="13177" /> <!-- For PC Cafe - Cranequin -->
+		</item_list>
+	</enchant_scroll>
+</list>

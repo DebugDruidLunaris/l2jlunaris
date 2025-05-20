@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- MultiSell_begin	[0996_no_crest]	501 -->
+<list>
+	<!-- Attention: keepenchanted should not be installed in multisellah where in one block, there are two identical nestekuemyh object (naprmier dual) -->
+	<!-- ignoreprice not work with keepencahnted -->
+	<config showall="true" notax="true" keepenchanted="false"/>
+	<item>
+		<ingredient id="6392" count="5"/>
+		<production id="1374" count="1"/>
+	</item>
+	<item>
+		<ingredient id="6392" count="10"/>
+		<production id="1375" count="1"/>
+	</item>
+	<item>
+		<ingredient id="6392" count="10"/>
+		<production id="6036" count="1"/>
+	</item>
+	<item>
+		<ingredient id="6392" count="17"/>
+		<production id="1540" count="1"/>
+	</item>
+</list>

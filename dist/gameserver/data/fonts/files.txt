@@ -1,0 +1,18 @@
+##########################################################
+# List of all FIGlet font files available in this folder
+##########################################################
+3x5.flf
+banner.flf
+banner3.flf
+cola.flf
+computer.flf
+lcd.flf
+letters.flf
+nancyj-fancy.flf
+nancyj.flf
+o8.flf
+pebbles.flf
+roman.flf
+standard.flf
+starwars.flf
+swan.flf

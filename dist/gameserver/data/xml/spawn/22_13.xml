@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="5" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="93024" y="-136983" zmin="-2976" zmax="-2888"/>
+			<add x="94674" y="-136983" zmin="-2976" zmax="-2888"/>
+			<add x="94674" y="-138749" zmin="-2976" zmax="-2888"/>
+			<add x="93024" y="-138749" zmin="-2976" zmax="-2888"/>
+		</territory>
+		<npc id="27321"/>
+		<!--Bruin Lizardman-->
+	</spawn>
+	<spawn count="5" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="91839" y="-135966" zmin="-2912" zmax="-2784"/>
+			<add x="91839" y="-137456" zmin="-2912" zmax="-2784"/>
+			<add x="93769" y="-137456" zmin="-2912" zmax="-2784"/>
+			<add x="93769" y="-135966" zmin="-2912" zmax="-2784"/>
+		</territory>
+		<npc id="27321"/>
+		<!--Bruin Lizardman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="83844" y="-140196" zmin="-1536" zmax="-1536"/>
+			<add x="85012" y="-140196" zmin="-1536" zmax="-1536"/>
+			<add x="85012" y="-141688" zmin="-1536" zmax="-1536"/>
+			<add x="83844" y="-141688" zmin="-1536" zmax="-1536"/>
+		</territory>
+		<npc id="31993"/>
+		<!--Adventure Guildsman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="85804" y="-142816" z="-1344" h="15000"/>
+		<npc id="30767"><!--Auctioneer-->
+			<set name="town" value="schuttgart"/>
+		</npc>
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69400" y="-136941" zmin="-2704" zmax="-2704"/>
+			<add x="69400" y="-137941" zmin="-2704" zmax="-2704"/>
+			<add x="70400" y="-137941" zmin="-2704" zmax="-2704"/>
+			<add x="70400" y="-136941" zmin="-2704" zmax="-2704"/>
+		</territory>
+		<npc id="27322"/>
+		<!--Picot Araneid-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="70549" y="-135275" zmin="-2209" zmax="-2109"/>
+			<add x="71400" y="-136841" zmin="-2260" zmax="-2160"/>
+			<add x="69705" y="-138224" zmin="-2702" zmax="-2602"/>
+			<add x="68774" y="-136071" zmin="-2530" zmax="-2430"/>
+		</territory>
+		<npc id="27322"/>
+		<!--Picot Araneid-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="69061" y="-134733" zmin="-2648" zmax="-2648"/>
+			<add x="69061" y="-135733" zmin="-2648" zmax="-2648"/>
+			<add x="70061" y="-135733" zmin="-2648" zmax="-2648"/>
+			<add x="70061" y="-134733" zmin="-2648" zmax="-2648"/>
+		</territory>
+		<npc id="27322"/>
+		<!--Picot Araneid-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67498" y="-131589" zmin="-2680" zmax="-2632"/>
+			<add x="69065" y="-131589" zmin="-2680" zmax="-2632"/>
+			<add x="69065" y="-133373" zmin="-2680" zmax="-2632"/>
+			<add x="67498" y="-133373" zmin="-2680" zmax="-2632"/>
+		</territory>
+		<npc id="27322"/>
+		<!--Picot Araneid-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="67984" y="-132569" zmin="-2680" zmax="-2680"/>
+			<add x="67984" y="-133569" zmin="-2680" zmax="-2680"/>
+			<add x="68984" y="-133569" zmin="-2680" zmax="-2680"/>
+			<add x="68984" y="-132569" zmin="-2680" zmax="-2680"/>
+		</territory>
+		<npc id="27322"/>
+		<!--Picot Araneid-->
+	</spawn>
+</list>

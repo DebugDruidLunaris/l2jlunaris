@@ -1,0 +1,16 @@
+[Style|Line]{Fonts sorted by style: Line}
+3x5
+banner
+banner3
+cola
+computer
+lcd
+letters
+nancyj-fancy
+nancyj
+o8
+pebbles
+roman
+standard
+starwars
+swan

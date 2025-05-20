@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="60" respawn="1" respawn_random="0" period_of_day="none">
+		<point x="-248536" y="250008" z="4336" h="24575" />
+		<npc id="32527" /><!--Edric-->
+	</spawn>
+</list>

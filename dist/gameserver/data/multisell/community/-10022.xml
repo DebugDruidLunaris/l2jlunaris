@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--
+Ольф
+-->
+
+<list>
+
+	<item id="1">
+		<ingredient id="4356" count="100"/>
+		<production id="21580" count="1"/>
+	</item>
+	<item id="2">
+		<ingredient id="4356" count="300"/>
+		<production id="21580" count="1" enchant="10" />
+	</item>
+	<item id="3">
+		<ingredient id="4356" count="3"/>
+		<production id="21581" count="1"/>
+	</item>
+	<item id="4">
+		<ingredient id="4356" count="7"/>
+		<production id="21582" count="1"/>
+	</item>
+</list>

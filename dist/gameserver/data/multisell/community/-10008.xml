@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--
+ L2J | Manager Multisell | Coded RuleZzz
+-->
+
+<list>
+
+	<!-- Dasparion's Staff - Hail - Mana Up [11018] -->
+	<item id="1">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5640" count="1" />
+	</item>
+	<!-- Dasparion's Staff - Hail - Conversion [11019] -->
+	<item id="2">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5638" count="1" />
+	</item>
+	<!-- Dasparion's Staff - Hail - Acumen [11020] -->
+	<item id="3">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5639" count="1" />
+	</item>
+	<!-- Dasparion's Staff - Hail - Acumen [11020] -->
+	<item id="4">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5642" count="1" />
+	</item>
+	<!-- Dasparion's Staff - Hail - Mana Up [11018] -->
+	<item id="5">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5641" count="1" />
+	</item>
+	<!-- Dasparion's Staff - Hail - Conversion [11019] -->
+	<item id="6">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5643" count="1" />
+	</item>
+	<!-- Doomchanter - Concentration - Light [11022] -->
+	<item id="7">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8814" count="1" />
+	</item>
+	<!-- Doomchanter - Concentration - Critical Bleed [11023] -->
+	<item id="8">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8813" count="1" />
+	</item>
+	<!-- Doomchanter - Concentration - Mana Up [11024] -->
+	<item id="9">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8812" count="1" />
+	</item>
+	<!-- White Lightning - Destruction - Critical Poison [11026] -->
+	<item id="10">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="4720" count="1" />
+	</item>
+	<!-- White Lightning - Destruction - Haste [11027] -->
+	<item id="11">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5635" count="1" />
+	</item>
+	<!-- White Lightning - Destruction - Anger [11028] -->
+	<item id="12">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="4721" count="1" />
+	</item>
+	<!-- Meteor Shower - Earth - Focus [11030] -->
+	<item id="13">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5636" count="1" />
+	</item>
+	<!-- Meteor Shower - Earth - Critical Bleed [11031] -->
+	<item id="14">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5648" count="1" />
+	</item>
+	<!-- Meteor Shower - Earth - Rsk. Haste [11032] -->
+	<item id="15">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5647" count="1" />
+	</item>
+	<!-- Blood Tornado - Destruction - Haste [11034] -->
+	<item id="16">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5649" count="1" />
+	</item>
+	<!-- Blood Tornado - Destruction - Focus [11035] -->
+	<item id="17">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8789" count="1" />
+	</item>
+	<!-- Blood Tornado - Destruction - Anger [11036] -->
+	<item id="18">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8790" count="1" />
+	</item>
+	<!-- Bloody Orchid - Confusion - Focus [11038] -->
+	<item id="19">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8788" count="1" />
+	</item>
+	<!-- Bloody Orchid - Confusion - Back Blow [11039] -->
+	<item id="20">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8793" count="1" />
+	</item>
+	<!-- Bloody Orchid - Confusion - Critical Bleed [11040] -->
+	<item id="21">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8792" count="1" />
+	</item>
+	<!-- Elemental Sword - Hail - Magic Power [11042] -->
+	<item id="22">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8791" count="1" />
+	</item>
+	<!-- Elemental Sword - Hail - Magic Paralyze [11043] -->
+	<item id="23">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8148" count="1" />
+	</item>
+	<!-- Elemental Sword - Hail - Empower [11044] -->
+	<item id="24">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8149" count="1" />
+	</item>
+	<!-- Spiritual Eye - Hail - Mana Up [11046] -->
+	<item id="25">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8147" count="1" />
+	</item>
+	<!-- Spiritual Eye - Hail - Magic Poison [11047] -->
+	<item id="26">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8817" count="1" />
+	</item>
+	<!-- Spiritual Eye - Hail - Acumen [11048] -->
+	<item id="27">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8815" count="1" />
+	</item>
+	<!-- Infernal Master - Concentration - Haste [11050] -->
+	<item id="28">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8816" count="1" />
+	</item>
+	<!-- Infernal Master - Concentration - Critical Damage [11051] -->
+	<item id="29">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5602" count="1" />
+	</item>
+	<!-- Infernal Master - Concentration - Focus [11052] -->
+	<item id="30">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5604" count="1" />
+	</item>
+	<!-- Carnage Bow - Concentration - Light [11054] -->
+	<item id="31">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5603" count="1" />
+	</item>
+	<!-- Carnage Bow - Concentration - Critical Bleed [11055] -->
+	<item id="32">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8820" count="1" />
+	</item>
+	<!-- Carnage Bow - Concentration - Mana Up [11056] -->
+	<item id="33">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8819" count="1" />
+	</item>
+	<!-- Tallum Blade - Destruction [11058] -->
+	<item id="34">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8818" count="1" />
+	</item>
+	<!-- Tallum Blade - Destruction - Critical Poison [11059] -->
+	<item id="35">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8135" count="1" />
+	</item>
+	<!-- Tallum Blade - Destruction - Haste [11060] -->
+	<item id="36">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8137" count="1" />
+	</item>
+	<!-- Tallum Blade - Destruction - Anger [11061] -->
+	<item id="37">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8136" count="1" />
+	</item>
+	<!-- Destroyer Hammer - Lightning - Health [11063] -->
+	<item id="38">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5618" count="1" />
+	</item>
+	<!-- Destroyer Hammer - Lightning - Haste [11064] -->
+	<item id="39">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5617" count="1" />
+	</item>
+	<!-- Destroyer Hammer - Lightning - Critical Drain [11065] -->
+	<item id="40">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5619" count="1" />
+	</item>
+	<!-- Divine Pain - Concentration - Haste [11067] -->
+	<item id="41">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8801" count="1" />
+	</item>
+	<!-- Divine Pain - Concentration - Critical Damage [11068] -->
+	<item id="42">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8802" count="1" />
+	</item>
+	<!-- Divine Pain - Concentration - Focus [11069] -->
+	<item id="43">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8800" count="1" />
+	</item>
+	<!-- Halberd - Lightning - Haste [11071] -->
+	<item id="44">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5633" count="1" />
+	</item>
+	<!-- Halberd - Lightning - Critical Stun [11072] -->
+	<item id="45">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5632" count="1" />
+	</item>
+	<!-- Halberd - Lightning - Wide Blow [11073] -->
+	<item id="46">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5634" count="1" />
+	</item>
+	<!-- Lacerator - Thunder - Critical Damage [11076] -->
+	<item id="47">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5625" count="1" />
+	</item>
+	<!-- Lacerator - Thunder - Health [11077] -->
+	<item id="48">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5624" count="1" />
+	</item>
+	<!-- Lacerator - Thunder - Rsk. Focus [11078] -->
+	<item id="49">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="5623" count="1" />
+	</item>
+	<!-- Dark Legion - Thunder - Critical Damage [11081] -->
+	<item id="50">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8808" count="1" />
+	</item>
+	<!-- Dark Legion - Thunder - Health [11082] -->
+	<item id="51">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8807" count="1" />
+	</item>
+	<!-- Dark Legion - Thunder - Rsk. Focus [11083] -->
+	<item id="52">
+
+		<ingredient id="57" count="50000000"/>
+		<production id="8806" count="1" />
+	</item>
+</list>

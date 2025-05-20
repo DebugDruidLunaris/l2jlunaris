@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--
+Плащи
+-->
+
+<list>
+
+	<item id="1">
+		<ingredient id="4356" count="140"/>
+		<production id="21719" count="1"/>
+	</item>
+	<item id="2">
+		<ingredient id="4356" count="150"/>
+		<production id="21720" count="1"/>
+	</item>
+	<item id="3">
+		<ingredient id="4356" count="150"/>
+		<production id="21721" count="1"/>
+	</item>
+	<item id="4">
+		<ingredient id="4356" count="40"/>
+		<production id="21583" count="1"/>
+	</item>
+	<item id="5">
+		<ingredient id="4356" count="40"/>
+		<production id="21587" count="1"/>
+	</item>
+	<item id="6">
+		<ingredient id="4356" count="40"/>
+		<production id="21588" count="1"/>
+	</item>
+</list>

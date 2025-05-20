@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- By a PC exclusive weapon enchant scroll -->
+<list>
+	<config showall="true" notax="false" ignoreprice="true" keepenchanted="false" />
+	<item>
+		<ingredient id="-100" count="500"/>
+		<production id="15350" count="1"/> <!-- D --> 
+	</item>
+	<item>
+		<ingredient id="-100" count="800"/>
+		<production id="15349" count="1"/> <!-- C -->
+	</item>
+	<item>
+		<ingredient id="-100" count="1000"/>
+		<production id="15348" count="1"/> <!-- B -->
+	</item>
+	<item>
+		<ingredient id="-100" count="1300"/>
+		<production id="15347" count="1"/> <!-- A -->
+	</item>
+	<item>
+		<ingredient id="-100" count="1500"/>
+		<production id="15346" count="1"/> <!-- S -->
+	</item>
+</list>

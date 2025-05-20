@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<!-- Region: Railroad Station. Territory: Dwarven Village -->
+	<!-- Railroad Station Npc's -->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="113020" y="-153244" zmin="-1520" zmax="-1520"/>
+			<add x="113020" y="-154244" zmin="-1520" zmax="-1520"/>
+			<add x="114020" y="-154244" zmin="-1520" zmax="-1520"/>
+			<add x="114020" y="-153244" zmin="-1520" zmax="-1520"/>
+		</territory>
+		<npc id="32052"/>
+		<!--Obi-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="113504" y="-155264" z="-1533" h="51797"/>
+		<npc id="32053"/>
+		<!--Abey-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112732" y="-154460" zmin="-1528" zmax="-1528"/>
+			<add x="114308" y="-154460" zmin="-1528" zmax="-1528"/>
+			<add x="114308" y="-156116" zmin="-1528" zmax="-1528"/>
+			<add x="112732" y="-156116" zmin="-1528" zmax="-1528"/>
+		</territory>
+		<npc id="32055"/>
+		<!--Ghost of an Ancient Railroad Engineer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="112732" y="-154460" zmin="-1528" zmax="-1528"/>
+			<add x="114308" y="-154460" zmin="-1528" zmax="-1528"/>
+			<add x="114308" y="-156116" zmin="-1528" zmax="-1528"/>
+			<add x="112732" y="-156116" zmin="-1528" zmax="-1528"/>
+		</territory>
+		<npc id="32076"/>
+		<!--Box-->
+	</spawn>
+</list>

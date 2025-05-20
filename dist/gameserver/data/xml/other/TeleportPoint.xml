@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<!-- Координаты телепорта для закрытия возможности подмены данных с гибкой настройкой каждой точки -->
+	<point id="1" name="Test" min="1" max="85" pk="false" isPremiumPoint="false">
+		<cost Item="57" Count="50000" PremiumItem="57" PremiumCount="25000"/>
+		<coordinates x="113553" y="134553" z="-3640"/>
+	</point>
+</list>

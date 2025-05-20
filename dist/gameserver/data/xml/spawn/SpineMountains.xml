@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<!-- Region: Spine Mountains. Territory: Dwarven Village -->
+	<!-- Spine Mountains Npc's -->
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130136" y="-181176" z="-3312" h="49151"/>
+		<npc id="4324"/>
+		<!--Worshipper-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130136" y="-181176" z="-3312" h="49151"/>
+		<npc id="4327"/>
+		<!--Dead Worshipper-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="129992" y="-181096" z="-3312" h="40959"/>
+		<npc id="4325"/>
+		<!--Altar Guard-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="129992" y="-181096" z="-3312" h="40959"/>
+		<npc id="4328"/>
+		<!--Dead Altar Guard-->
+	</spawn>
+	<spawn group="bloodaltar_alive_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130280" y="-181096" z="-3312" h="57343"/>
+		<npc id="4325"/>
+		<!--Altar Guard-->
+	</spawn>
+	<spawn group="bloodaltar_dead_npc" count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="130280" y="-181096" z="-3312" h="57343"/>
+		<npc id="4328"/>
+		<!--Dead Altar Guard-->
+	</spawn>
+	<!-- Spine Mountains Monster's -->
+</list>

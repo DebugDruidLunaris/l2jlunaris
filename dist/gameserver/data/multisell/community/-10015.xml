@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+<config showall="true" notax="true" keepenchanted="false" />
+  <!-- Elven Necklace -->
+  <item id="1">
+    <ingredient id="57" count="95800"/>
+    <production id="913" count="1"/>
+  </item>
+
+  <!-- Elven Earring -->
+  <item id="2">
+    <ingredient id="57" count="71900"/>
+    <production id="850" count="1"/>
+  </item>
+
+  <!-- Elven Ring -->
+  <item id="3">
+    <ingredient id="57" count="50000"/>
+    <production id="881" count="1"/>
+  </item>
+  <!-- Blessed Necklace -->
+  <item id="1">
+    <ingredient id="57" count="434400"/>
+    <production id="919" count="1"/>
+  </item>
+
+  <!-- Blessed Earring -->
+  <item id="2">
+    <ingredient id="57" count="325800"/>
+    <production id="857" count="1"/>
+  </item>
+
+  <!-- Blessed Ring -->
+  <item id="3">
+    <ingredient id="57" count="217200"/>
+    <production id="888" count="1"/>
+  </item>
+  <!-- Necklace of Black Ore -->
+  <item id="1">
+    <ingredient id="57" count="1000000"/>
+    <production id="926" count="1"/>
+  </item>
+
+  <!-- Earring of Black Ore -->
+  <item id="2">
+    <ingredient id="57" count="1000000"/>
+    <production id="864" count="1"/>
+  </item>
+
+  <!-- Ring of Black Ore -->
+  <item id="3">
+    <ingredient id="57" count="1000000"/>
+    <production id="895" count="1"/>
+  </item>
+ <!-- Majestic Necklace -->
+  <item id="1">
+    <ingredient id="57" count="3000000"/>
+    <production id="924" count="1"/>
+  </item>
+
+  <!-- Majestic Earring -->
+  <item id="2">
+    <ingredient id="57" count="3000000"/>
+    <production id="862" count="1"/>
+  </item>
+
+  <!-- Majestic Ring -->
+  <item id="3">
+    <ingredient id="57" count="3000000"/>
+    <production id="893" count="1"/>
+  </item>
+
+  <!-- Phoenix Necklace -->
+  <item id="4">
+    <ingredient id="57" count="3000000"/>
+    <production id="933" count="1"/>
+  </item>
+
+  <!-- Phoenix Earring -->
+  <item id="5">
+    <ingredient id="57" count="3000000"/>
+    <production id="871" count="1"/>
+  </item>
+
+  <!-- Phoenix Ring -->
+  <item id="6">
+    <ingredient id="57" count="3000000"/>
+    <production id="902" count="1"/>
+  </item>
+  <!-- Tateossian Necklace -->
+  <item id="1">
+    <ingredient id="57" count="16000000"/>
+    <production id="920" count="1"/>
+  </item>
+
+  <!-- Tateossian Earring -->
+  <item id="2">
+    <ingredient id="57" count="16000000"/>
+    <production id="858" count="1"/>
+  </item>
+
+  <!-- Tateossian Ring -->
+  <item id="3">
+    <ingredient id="57" count="16000000"/>
+    <production id="889" count="1"/>
+  </item>
+</list>

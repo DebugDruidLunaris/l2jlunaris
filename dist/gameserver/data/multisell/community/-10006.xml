@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--
+ L2J | Manager Multisell | Coded RuleZzz
+-->
+
+<list>
+
+	<!-- Tallum Blade [80] -->
+	<item id="1">
+		<ingredient id="57" count="21147000"/>
+		<production id="80" count="1"/>
+	</item>
+	<!-- Halberd [98] -->
+	<item id="2">
+		<ingredient id="57" count="21147001"/>
+		<production id="98" count="1"/>
+	</item>
+	<!-- Elemental Sword [150] -->
+	<item id="3">
+		<ingredient id="57" count="21147001"/>
+		<production id="150" count="1"/>
+	</item>
+	<!-- Dasparion's Staff [212] -->
+	<item id="4">
+		<ingredient id="57" count="21147001"/>
+		<production id="212" count="1"/>
+	</item>
+	<!-- Bloody Orchid [235] -->
+	<item id="5">
+		<ingredient id="57" count="21147001"/>
+		<production id="235" count="1"/>
+	</item>
+	<!-- Blood Tornado [269] -->
+	<item id="6">
+		<ingredient id="57" count="21147001"/>
+		<production id="269" count="1"/>
+	</item>
+	<!-- Carnage Bow [288] -->
+	<item id="7">
+		<ingredient id="57" count="21147001"/>
+		<production id="288" count="1"/>
+	</item>
+	<!-- Meteor Shower [2504] -->
+	<item id="8">
+		<ingredient id="57" count="21147001"/>
+		<production id="2504" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="9">
+		<ingredient id="57" count="21147001"/>
+		<production id="7884" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="10">
+		<ingredient id="57" count="21147001"/>
+		<production id="7894" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="11">
+		<ingredient id="57" count="21147001"/>
+		<production id="7899" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="12">
+		<ingredient id="57" count="21147001"/>
+		<production id="9328" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="13">
+		<ingredient id="57" count="21147001"/>
+		<production id="9332" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="14">
+		<ingredient id="57" count="21147001"/>
+		<production id="9336" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="15">
+		<ingredient id="57" count="27450000"/>
+		<production id="85" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="16">
+		<ingredient id="57" count="27450000"/>
+		<production id="147" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="17">
+		<ingredient id="57" count="27450000"/>
+		<production id="149" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="18">
+		<ingredient id="57" count="31111500"/>
+		<production id="81" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="19">
+		<ingredient id="57" count="31111500"/>
+		<production id="151" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="20">
+		<ingredient id="57" count="31111500"/>
+		<production id="164" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="21">
+		<ingredient id="57" count="31111500"/>
+		<production id="213" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="22">
+		<ingredient id="57" count="31111500"/>
+		<production id="236" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="23">
+		<ingredient id="57" count="31111500"/>
+		<production id="289" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="24">
+		<ingredient id="57" count="31111500"/>
+		<production id="305" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="25">
+		<ingredient id="57" count="31111500"/>
+		<production id="2500" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="26">
+		<ingredient id="57" count="31111500"/>
+		<production id="7895" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="27">
+		<ingredient id="57" count="31111500"/>
+		<production id="7902" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="28">
+		<ingredient id="57" count="31111500"/>
+		<production id="9340" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="29">
+		<ingredient id="57" count="31111500"/>
+		<production id="9344" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="30">
+		<ingredient id="57" count="31111500"/>
+		<production id="9348" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="31">
+		<ingredient id="57" count="31111500"/>
+		<production id="304" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="32">
+		<ingredient id="57" count="40452600"/>
+		<production id="8678" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="33">
+		<ingredient id="57" count="40452600"/>
+		<production id="8679" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="34">
+		<ingredient id="57" count="40452600"/>
+		<production id="8680" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="35">
+		<ingredient id="57" count="40452600"/>
+		<production id="8681" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="36">
+		<ingredient id="57" count="40452600"/>
+		<production id="8682" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="37">
+		<ingredient id="57" count="40452600"/>
+		<production id="8683" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="38">
+		<ingredient id="57" count="40452600"/>
+		<production id="8684" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="39">
+		<ingredient id="57" count="40452600"/>
+		<production id="8685" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="40">
+		<ingredient id="57" count="40452600"/>
+		<production id="8686" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="41">
+		<ingredient id="57" count="40452600"/>
+		<production id="8687" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="42">
+		<ingredient id="57" count="40452600"/>
+		<production id="8688" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="43">
+		<ingredient id="57" count="40452600"/>
+		<production id="9352" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="44">
+		<ingredient id="57" count="40452600"/>
+		<production id="9356" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="45">
+		<ingredient id="57" count="40452600"/>
+		<production id="9360" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="46">
+		<ingredient id="57" count="22556800"/>
+		<production id="5233" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="47">
+		<ingredient id="57" count="29280000"/>
+		<production id="5704" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="48">
+		<ingredient id="57" count="29707840"/>
+		<production id="5705" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="49">
+		<ingredient id="57" count="33185600"/>
+		<production id="5706" count="1"/>
+	</item>
+	<!-- Infernal Master [7884] -->
+	<item id="50">
+		<ingredient id="57" count="43149440"/>
+		<production id="8938" count="1"/>
+	</item>
+
+</list>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!--
+ Д грейд
+-->
+
+<list>
+	<item id="1">
+		<ingredient id="57" count="1500000"/>
+		<production id="7854" count="1"/>
+		<production id="7850" count="1"/>
+		<production id="7856" count="1"/>
+		<production id="7855" count="1"/>
+	</item>
+	<item id="2">
+		<ingredient id="57" count="1500000"/>
+		<production id="9824" count="1"/>
+		<production id="9820" count="1"/>
+		<production id="9826" count="1"/>
+		<production id="9825" count="1"/>
+	</item>
+	<item id="3">
+		<ingredient id="57" count="1500000"/>
+		<production id="394" count="1"/>
+		<production id="416" count="1"/>
+		<production id="2422" count="1"/>
+	</item>
+	<item id="4">
+		<ingredient id="57" count="1500000"/>
+		<production id="395" count="1"/>
+		<production id="417" count="1"/>
+		<production id="2424" count="1"/>
+	</item>
+	<item id="5">
+		<ingredient id="57" count="1500000"/>
+		<production id="58" count="1"/>
+		<production id="59" count="1"/>
+		<production id="47" count="1"/>
+	</item>
+	<item id="6">
+		<ingredient id="57" count="1500000"/>
+		<production id="7851" count="1"/>
+		<production id="7850" count="1"/>
+		<production id="7853" count="1"/>
+		<production id="7852" count="1"/>
+	</item>
+	<item id="7">
+		<ingredient id="57" count="1500000"/>
+		<production id="9821" count="1"/>
+		<production id="9820" count="1"/>
+		<production id="9823" count="1"/>
+		<production id="9822" count="1"/>
+	</item>
+	<item id="8">
+		<ingredient id="57" count="1500000"/>
+		<production id="352" count="1"/>
+		<production id="2378" count="1"/>
+		<production id="2411" count="1"/>
+	</item>
+	<item id="9">
+		<ingredient id="57" count="1500000"/>
+		<production id="436" count="1"/>
+		<production id="469" count="1"/>
+		<production id="2447" count="1"/>
+	</item>
+	<item id="10">
+		<ingredient id="57" count="1500000"/>
+		<production id="7857" count="1"/>
+		<production id="7850" count="1"/>
+		<production id="7859" count="1"/>
+		<production id="7858" count="1"/>
+	</item>
+	<item id="11">
+		<ingredient id="57" count="1500000"/>
+		<production id="9827" count="1"/>
+		<production id="9820" count="1"/>
+		<production id="9829" count="1"/>
+		<production id="9828" count="1"/>
+	</item>
+</list>

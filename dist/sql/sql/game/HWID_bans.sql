@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS `hwid_bans`;
+CREATE TABLE `hwid_bans` (
+  `date` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `hwid` varchar(32) NOT NULL DEFAULT '',
+  `comments` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`hwid`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;

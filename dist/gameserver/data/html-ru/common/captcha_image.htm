@@ -1,0 +1,10 @@
+<html><title>НЕ ЗАКРЫВАЙТЕ ЭТО ОКНО</title><body>
+<font color="LEVEL"><center>Добро пожаловать, %playername%!</center></font><br>
+Это страница защиты от ботов. Вы должны пройти небольшой тест, чтобы продолжить играть.<br1>
+Если вы провалите тест или не дадите ответа в течении %captchatime% секунд, вы <font color="LEVEL">будете ОТКЛЮЧЕНЫ!</font><br>
+Ниже изображен рисунок с кодом (чувствителен к регистру). Введите 4 символа с картинки в текстовое поле и нажмите "Проверить" чтобы пройти тест.<br>
+<center><img src="%captcha%" width=256 height=64></center><br>
+<center><edit var="captcha" width=60 height=20 length="4">
+<td><font color="LEVEL">У вас Осталось</font> %countCaptcha% Попыток</td>
+<button value="Проверить" action="bypass -h captcha_ $captcha" width=60 height=25 back="L2UI_ct1.button_df" fore="L2UI_ct1.button_df"></center>
+</body></html>

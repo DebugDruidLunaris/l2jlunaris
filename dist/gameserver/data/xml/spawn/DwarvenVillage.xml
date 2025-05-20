@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<!-- Region: Dwarven Village. -->
+
+	<!-- Dwarven Village Npc's -->
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115741" y="-181645" z="-1344" h="8192"/>
+		<npc id="30516"/>
+		<!--Reep-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116192" y="-181072" z="-1344" h="40960"/>
+		<npc id="30517"/>
+		<!--Shari-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115900" y="-177316" z="-915" h="50000"/>
+		<npc id="30518"/>
+		<!--Garita-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116268" y="-177524" z="-914" h="32768"/>
+		<npc id="30519"/>
+		<!--Mion-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115205" y="-180024" z="-870" h="32768"/>
+		<npc id="30520"/>
+		<!--Reed-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="114716" y="-180018" z="-871" h="0"/>
+		<npc id="30521"/>
+		<!--Murdoc-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="114832" y="-179520" z="-856" h="49213"/>
+		<npc id="30522"/>
+		<!--Airy-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115717" y="-183488" z="-1483" h="8192"/>
+		<npc id="30523"/>
+		<!--Gouph-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115618" y="-183265" z="-1483" h="55000"/>
+		<npc id="30524"/>
+		<!--Pippi-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115468" y="-182446" z="-1434" h="32768"/>
+		<npc id="30525"/>
+		<!--Bronk-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115315" y="-182155" z="-1444" h="49152"/>
+		<npc id="30526"/>
+		<!--Brunon-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115271" y="-182692" z="-1445" h="4096"/>
+		<npc id="30527"/>
+		<!--Silvera-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116226" y="-178529" z="-948" h="32768"/>
+		<npc id="30531"/>
+		<!--Lockirin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116190" y="-178441" z="-944" h="40974"/>
+		<npc id="30532"/>
+		<!--Spiron-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116016" y="-178615" z="-944" h="8192"/>
+		<npc id="30533"/>
+		<!--Balanki-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116190" y="-178615" z="-948" h="24576"/>
+		<npc id="30534"/>
+		<!--Keef-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116103" y="-178407" z="-948" h="49152"/>
+		<npc id="30535"/>
+		<!--Filaur-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116103" y="-178653" z="-948" h="16384"/>
+		<npc id="30536"/>
+		<!--Arin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="114348" y="-178537" z="-808" h="0"/>
+		<npc id="30537"/>
+		<!--Daichir-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="114426" y="-178672" z="-808" h="8192"/>
+		<npc id="30538"/>
+		<!--Zimenf-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="114409" y="-178415" z="-808" h="57344"/>
+		<npc id="30539"/>
+		<!--Chichirin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115072" y="-178176" z="-906" h="0"/>
+		<npc id="30540"/>
+		<!--Wirphy-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="117847" y="-182339" z="-1537" h="0"/>
+		<npc id="30541"/>
+		<!--Paion-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116617" y="-184308" z="-1569" h="49152"/>
+		<npc id="30542"/>
+		<!--Runant-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="117826" y="-182576" z="-1537" h="0"/>
+		<npc id="30543"/>
+		<!--Ethan-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116378" y="-184308" z="-1571" h="49152"/>
+		<npc id="30544"/>
+		<!--Cromwell-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115183" y="-176728" z="-791" h="20480"/>
+		<npc id="30545"/>
+		<!--Proton-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="114969" y="-176752" z="-790" h="15384"/>
+		<npc id="30546"/>
+		<!--Dinkey-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="117366" y="-178725" z="-1118" h="0"/>
+		<npc id="30547"/>
+		<!--Tardyon-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="117378" y="-178914" z="-1120" h="0"/>
+		<npc id="30548"/>
+		<!--Nathan-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115563" y="-182923" z="-1448" h="8192"/>
+		<npc id="30550"/>
+		<!--Gauri Twinklerock-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116852" y="-183595" z="-1566" h="32768"/>
+		<npc id="30553"/>
+		<!--Maryse Redbonnet-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115632" y="-177996" z="-905" h="32768"/>
+		<npc id="30601"/>
+		<!--Newbie Guide-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="114990" y="-177294" z="-854" h="0"/>
+		<npc id="30650"/>
+		<!--Gerald-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116164" y="-184029" z="-1507" h="8192"/>
+		<npc id="30651"/>
+		<!--Dorf-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="117061" y="-181867" z="-1408" h="36864"/>
+		<npc id="30671"/>
+		<!--Croto-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115075" y="-178133" z="-880" h="1000"/>
+		<npc id="30993"/>
+		<!--Lottery Ticket Seller-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116080" y="-182448" z="-1475" h="0"/>
+		<npc id="31031"/>
+		<!--Broadcasting Tower-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116091" y="-181569" z="-1352" h="0"/>
+		<npc id="31362"/>
+		<!--Tate-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115756" y="-183472" z="-1477" h="0"/>
+		<npc id="31363"/>
+		<!--Rogin-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116272" y="-177248" z="-883" h="40000"/>
+		<npc id="31566"/>
+		<!--Ropfi-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115488" y="-179616" z="-880" h="0"/>
+		<npc id="31688"/>
+		<!--Grand Olympiad Manager-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115488" y="-179664" z="-880" h="0"/>
+		<npc id="31772"/>
+		<!--Monument of Heroes-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115627" y="-177970" z="-896" h="40005"/>
+		<npc id="31782"/>
+		<!--Adventure Guildsman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116640" y="-183952" z="-1568" h="39000"/>
+		<npc id="31783"/>
+		<!--Adventure Guildsman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115020" y="-179728" z="-880" h="0"/>
+		<npc id="32478"/>
+		<!--Dimensional Merchant-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="117057" y="-183091" z="-1520" h="28672"/>
+		<npc id="32486"/>
+		<!--Inventor Maru-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="115607" y="-177945" z="-896" h="38058"/>
+		<npc id="32783"/>
+		<!--Priest of Blessing-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<point x="116184" y="-181599" z="-1360" h="57784"/>
+		<npc id="35644"/>
+		<!--Manor Manager-->
+	</spawn>
+</list>

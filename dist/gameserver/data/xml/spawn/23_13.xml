@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="9" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114630" y="-142547" zmin="-3168" zmax="-3080"/>
+			<add x="116662" y="-142547" zmin="-3168" zmax="-3080"/>
+			<add x="116662" y="-144789" zmin="-3168" zmax="-3080"/>
+			<add x="114630" y="-144789" zmin="-3168" zmax="-3080"/>
+		</territory>
+		<npc id="22027"/>
+		<!--Forgotten Crewman-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="114630" y="-142547" zmin="-3168" zmax="-3080"/>
+			<add x="116662" y="-142547" zmin="-3168" zmax="-3080"/>
+			<add x="116662" y="-144789" zmin="-3168" zmax="-3080"/>
+			<add x="114630" y="-144789" zmin="-3168" zmax="-3080"/>
+		</territory>
+		<npc id="22028"/>
+		<!--Vagabond of the Ruins-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116799" y="-143172" zmin="-3052" zmax="-2952"/>
+			<add x="118166" y="-143076" zmin="-2922" zmax="-2822"/>
+			<add x="117897" y="-141629" zmin="-2681" zmax="-2581"/>
+			<add x="115978" y="-141269" zmin="-3089" zmax="-2989"/>
+		</territory>
+		<npc id="22027"/>
+		<!--Forgotten Crewman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="116799" y="-143172" zmin="-3052" zmax="-2952"/>
+			<add x="118166" y="-143076" zmin="-2922" zmax="-2822"/>
+			<add x="117897" y="-141629" zmin="-2681" zmax="-2581"/>
+			<add x="115978" y="-141269" zmin="-3089" zmax="-2989"/>
+		</territory>
+		<npc id="22028"/>
+		<!--Vagabond of the Ruins-->
+	</spawn>
+	<spawn count="2" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118702" y="-142915" zmin="-3000" zmax="-2840"/>
+			<add x="118702" y="-144347" zmin="-3000" zmax="-2840"/>
+			<add x="120632" y="-144347" zmin="-3000" zmax="-2840"/>
+			<add x="120632" y="-142915" zmin="-3000" zmax="-2840"/>
+		</territory>
+		<npc id="22028"/>
+		<!--Vagabond of the Ruins-->
+	</spawn>
+	<spawn count="5" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118702" y="-142915" zmin="-3000" zmax="-2840"/>
+			<add x="118702" y="-144347" zmin="-3000" zmax="-2840"/>
+			<add x="120632" y="-144347" zmin="-3000" zmax="-2840"/>
+			<add x="120632" y="-142915" zmin="-3000" zmax="-2840"/>
+		</territory>
+		<npc id="22027"/>
+		<!--Forgotten Crewman-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118405" y="-141889" zmin="-2744" zmax="-2600"/>
+			<add x="118405" y="-143368" zmin="-2744" zmax="-2600"/>
+			<add x="120377" y="-143368" zmin="-2744" zmax="-2600"/>
+			<add x="120377" y="-141889" zmin="-2744" zmax="-2600"/>
+		</territory>
+		<npc id="22027"/>
+		<!--Forgotten Crewman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="118405" y="-141889" zmin="-2744" zmax="-2600"/>
+			<add x="118405" y="-143368" zmin="-2744" zmax="-2600"/>
+			<add x="120377" y="-143368" zmin="-2744" zmax="-2600"/>
+			<add x="120377" y="-141889" zmin="-2744" zmax="-2600"/>
+		</territory>
+		<npc id="22028"/>
+		<!--Vagabond of the Ruins-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="119632" y="-143262" zmin="-3120" zmax="-3000"/>
+			<add x="121142" y="-143262" zmin="-3120" zmax="-3000"/>
+			<add x="121142" y="-144902" zmin="-3120" zmax="-3000"/>
+			<add x="119632" y="-144902" zmin="-3120" zmax="-3000"/>
+		</territory>
+		<npc id="22027"/>
+		<!--Forgotten Crewman-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="121692" y="-140028" zmin="-1536" zmax="-1496"/>
+			<add x="121692" y="-141673" zmin="-1536" zmax="-1496"/>
+			<add x="123474" y="-141673" zmin="-1536" zmax="-1496"/>
+			<add x="123474" y="-140028" zmin="-1536" zmax="-1496"/>
+		</territory>
+		<npc id="25505"/>
+		<!--Nellis' Follower-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="night">
+		<territory>
+			<add x="121692" y="-140028" zmin="-1536" zmax="-1496"/>
+			<add x="121692" y="-141673" zmin="-1536" zmax="-1496"/>
+			<add x="123474" y="-141673" zmin="-1536" zmax="-1496"/>
+			<add x="123474" y="-140028" zmin="-1536" zmax="-1496"/>
+		</territory>
+		<npc id="32054"/>
+		<!--Ghost of a Railroad Engineer-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125011" y="-141332" zmin="-3152" zmax="-3152"/>
+			<add x="125011" y="-142787" zmin="-3152" zmax="-3152"/>
+			<add x="126673" y="-142787" zmin="-3152" zmax="-3152"/>
+			<add x="126673" y="-141332" zmin="-3152" zmax="-3152"/>
+		</territory>
+		<npc id="22028"/>
+		<!--Vagabond of the Ruins-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125011" y="-141332" zmin="-3152" zmax="-3152"/>
+			<add x="125011" y="-142787" zmin="-3152" zmax="-3152"/>
+			<add x="126673" y="-142787" zmin="-3152" zmax="-3152"/>
+			<add x="126673" y="-141332" zmin="-3152" zmax="-3152"/>
+		</territory>
+		<npc id="22027"/>
+		<!--Forgotten Crewman-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125508" y="-142377" zmin="-3152" zmax="-3152"/>
+			<add x="125508" y="-143565" zmin="-3152" zmax="-3152"/>
+			<add x="126887" y="-143565" zmin="-3152" zmax="-3152"/>
+			<add x="126887" y="-142377" zmin="-3152" zmax="-3152"/>
+		</territory>
+		<npc id="22027"/>
+		<!--Forgotten Crewman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125508" y="-142377" zmin="-3152" zmax="-3152"/>
+			<add x="125508" y="-143565" zmin="-3152" zmax="-3152"/>
+			<add x="126887" y="-143565" zmin="-3152" zmax="-3152"/>
+			<add x="126887" y="-142377" zmin="-3152" zmax="-3152"/>
+		</territory>
+		<npc id="22028"/>
+		<!--Vagabond of the Ruins-->
+	</spawn>
+	<spawn count="3" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="127250" y="-160080" zmin="-1232" zmax="-1232"/>
+			<add x="127250" y="-161231" zmin="-1232" zmax="-1232"/>
+			<add x="128430" y="-161231" zmin="-1232" zmax="-1232"/>
+			<add x="128430" y="-160080" zmin="-1232" zmax="-1232"/>
+		</territory>
+		<npc id="25508"/>
+		<!--Rayito's Henchman-->
+	</spawn>
+	<spawn count="1" respawn="60" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="127250" y="-160080" zmin="-1232" zmax="-1232"/>
+			<add x="127250" y="-161231" zmin="-1232" zmax="-1232"/>
+			<add x="128430" y="-161231" zmin="-1232" zmax="-1232"/>
+			<add x="128430" y="-160080" zmin="-1232" zmax="-1232"/>
+		</territory>
+		<npc id="25507"/>
+		<!--Rayito's Henchman-->
+	</spawn>
+</list>

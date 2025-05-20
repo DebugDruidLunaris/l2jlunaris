@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "spawn.dtd">
+<list>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124232" y="-179684" zmin="-1620" zmax="-1020"/>
+			<add x="124844" y="-180344" zmin="-1620" zmax="-1020"/>
+			<add x="125268" y="-179892" zmin="-1620" zmax="-1020"/>
+			<add x="124736" y="-178552" zmin="-1620" zmax="-1020"/>
+			<add x="123912" y="-178720" zmin="-1620" zmax="-1020"/>
+		</territory>
+		<npc id="20318"/>
+		<!--Black Timber Wolf-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123848" y="-178696" zmin="-1432" zmax="-1032"/>
+			<add x="123752" y="-176940" zmin="-1432" zmax="-1032"/>
+			<add x="125048" y="-175916" zmin="-1432" zmax="-1032"/>
+			<add x="125916" y="-177116" zmin="-1432" zmax="-1032"/>
+			<add x="125380" y="-178120" zmin="-1432" zmax="-1032"/>
+		</territory>
+		<npc id="20318"/>
+		<!--Black Timber Wolf-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124424" y="-174700" zmin="-1360" zmax="-960"/>
+			<add x="125924" y="-177200" zmin="-1360" zmax="-960"/>
+			<add x="127516" y="-175956" zmin="-1360" zmax="-960"/>
+			<add x="125936" y="-174052" zmin="-1360" zmax="-960"/>
+		</territory>
+		<npc id="20318"/>
+		<!--Black Timber Wolf-->
+	</spawn>
+	<spawn count="1" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124740" y="-181792" zmin="-1952" zmax="-1552"/>
+			<add x="125124" y="-180556" zmin="-1952" zmax="-1552"/>
+			<add x="126280" y="-179820" zmin="-1952" zmax="-1552"/>
+			<add x="126356" y="-180240" zmin="-1952" zmax="-1552"/>
+		</territory>
+		<npc id="20318"/>
+		<!--Black Timber Wolf-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124232" y="-179684" zmin="-1620" zmax="-1020"/>
+			<add x="124844" y="-180344" zmin="-1620" zmax="-1020"/>
+			<add x="125268" y="-179892" zmin="-1620" zmax="-1020"/>
+			<add x="124736" y="-178552" zmin="-1620" zmax="-1020"/>
+			<add x="123912" y="-178720" zmin="-1620" zmax="-1020"/>
+		</territory>
+		<npc id="20448"/>
+		<!--Utuku Orc Grunt-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="123848" y="-178696" zmin="-1432" zmax="-1032"/>
+			<add x="123752" y="-176940" zmin="-1432" zmax="-1032"/>
+			<add x="125048" y="-175916" zmin="-1432" zmax="-1032"/>
+			<add x="125916" y="-177116" zmin="-1432" zmax="-1032"/>
+			<add x="125380" y="-178120" zmin="-1432" zmax="-1032"/>
+		</territory>
+		<npc id="20448"/>
+		<!--Utuku Orc Grunt-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124424" y="-174700" zmin="-1360" zmax="-960"/>
+			<add x="125924" y="-177200" zmin="-1360" zmax="-960"/>
+			<add x="127516" y="-175956" zmin="-1360" zmax="-960"/>
+			<add x="125936" y="-174052" zmin="-1360" zmax="-960"/>
+		</territory>
+		<npc id="20448"/>
+		<!--Utuku Orc Grunt-->
+	</spawn>
+	<spawn count="2" respawn="22" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="124740" y="-181792" zmin="-1952" zmax="-1552"/>
+			<add x="125124" y="-180556" zmin="-1952" zmax="-1552"/>
+			<add x="126280" y="-179820" zmin="-1952" zmax="-1552"/>
+			<add x="126356" y="-180240" zmin="-1952" zmax="-1552"/>
+		</territory>
+		<npc id="20448"/>
+		<!--Utuku Orc Grunt-->
+	</spawn>
+
+	<spawn count="3" respawn="180" respawn_random="0" period_of_day="none">
+		<territory>
+			<add x="125094" y="-174072" zmin="-1062" zmax="-762"/>
+			<add x="125334" y="-173783" zmin="-1062" zmax="-762"/>
+			<add x="125684" y="-173852" zmin="-1062" zmax="-762"/>
+			<add x="125662" y="-174219" zmin="-1062" zmax="-762"/>
+		</territory>
+		<npc id="27200"/>
+		<!--Krudel Lizardman-->
+	</spawn>
+</list>

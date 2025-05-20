@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <config showall="true" notax="true" ignoreprice="true" keepenchanted="false" />
+	<!-- Fire Stone for Water Stone -->
+	<item>
+		<ingredient id="9547" count="1" />
+		<production id="9546" count="1" />
+	</item>
+	<!-- Water Stone for Fire Stone -->
+	<item>
+		<ingredient id="9546" count="1" />
+		<production id="9547" count="1" />	
+	</item>
+	<!-- Earth Stone for Wind Stone -->
+	<item>
+		<ingredient id="9549" count="1" />
+		<production id="9548" count="1" />
+	</item>
+	<!-- Wind Stone for Earth Stone -->
+	<item>
+		<ingredient id="9548" count="1" />
+		<production id="9549" count="1" />
+	</item>
+	<!-- Divine Stone for Dark Stone -->
+	<item>
+		<ingredient id="9550" count="1" />
+		<production id="9551" count="1" />
+	</item>
+	<!-- Dark Stone for Divine Stone -->
+	<item>
+		<ingredient id="9551" count="1" />
+		<production id="9550" count="1" />
+	</item>
+	<!-- 5 Fire Stone & 3000000 for Fire Crystal -->
+	<item>
+		<ingredient id="9546" count="5" />
+		<ingredient id="57" count="3000000" />
+		<production id="9552" count="1" />
+	</item>
+	<!-- 5 Water Stone & 3000000 for Water Crystal -->
+	<item>
+		<ingredient id="9547" count="5" />
+		<ingredient id="57" count="3000000" />
+		<production id="9553" count="1" />
+	</item>
+	<!-- 5 Earth Stone & 3000000 for Earth Crystal -->
+	<item>
+		<ingredient id="9548" count="5" />
+		<ingredient id="57" count="3000000" />
+		<production id="9554" count="1" />
+	</item>
+	<!-- 5 Wind Stone & 3000000 for Wind Crystal -->
+	<item>
+		<ingredient id="9549" count="5" />
+		<ingredient id="57" count="3000000" />
+		<production id="9555" count="1" />
+	</item>
+	<!-- 5 Divine Stone & 3000000 for Divine Crystal -->
+	<item>
+		<ingredient id="9551" count="5" />
+		<ingredient id="57" count="3000000" />
+		<production id="9557" count="1" />
+	</item>
+	<!-- 5 Dark Stone & 3000000 for Dark Crystal -->
+	<item>
+		<ingredient id="9550" count="5" />
+		<ingredient id="57" count="3000000" />
+		<production id="9556" count="1" />
+	</item>
+</list>

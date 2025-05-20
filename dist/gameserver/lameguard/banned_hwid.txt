@@ -1,0 +1,4 @@
+# Вы можете вписывать HWID из лога lameguard.log, каждый бан должен быть на новой строке
+# You can copy HWIDs from lameguard.log, one ban must be on one line
+
+11112222333344445555666677d77888        # added : 10.03.02 05:10:20, account : lamer, IG bot
